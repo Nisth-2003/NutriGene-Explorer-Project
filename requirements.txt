@@ -98,7 +98,6 @@ namex==0.0.8
 nest-asyncio==1.6.0
 networkx==3.4.2
 nltk==3.8.1
-NorenRestApiPy @ file:///F:/Upflairs/MARKET%20PROJECT/NorenRestApiPy-0.0.16-py2.py3-none-any.whl#sha256=7af5aa3861818b482a4237e3e892324d7616fe71f76191e360521bf3715718ad
 numba==0.60.0
 numpy==1.26.4
 opencv-python==4.10.0.84
