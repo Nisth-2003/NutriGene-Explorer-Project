@@ -1,0 +1,1001 @@
+Gene_ID,Gene_Name,Nutrient,Impact_on_Gene,Interaction_Type,Expression_Level,Daily_Intake_mg,Risk_Score,Population
+GENE2824,TCF7L2,Zinc,Upregulation,Enhances,Variable,82.81,3.03,Asian
+GENE1409,SOD2,Selenium,No effect,Enhances,High,23.04,0.55,Asian
+GENE5506,APOA1,Zinc,Downregulation,Neutral,Moderate,69.91,9.97,African American
+GENE5012,GPX1,Folate,Upregulation,Enhances,High,77.74,6.47,African American
+GENE4657,TCF7L2,Selenium,Downregulation,Enhances,Variable,19.64,3.65,General
+GENE3286,MTHFR,Vitamin D,Upregulation,Neutral,High,31.9,8.53,General
+GENE2679,APOA1,Folate,Downregulation,Enhances,Moderate,43.93,3.4,Asian
+GENE9935,TCF7L2,Folate,Downregulation,Neutral,Variable,35.59,8.41,General
+GENE2424,TCF7L2,Vitamin D,Downregulation,Enhances,Variable,14.14,7.6,Asian
+GENE7912,SOD2,Selenium,Downregulation,Reduces,High,67.59,2.9,Asian
+GENE1520,MTHFR,Zinc,Downregulation,Neutral,Variable,9.16,2.03,African American
+GENE1488,MTHFR,Folate,No effect,Reduces,High,94.09,5.54,Asian
+GENE2535,MTHFR,Vitamin D,No effect,Neutral,High,21.97,9.68,General
+GENE4582,GPX1,Zinc,Upregulation,Enhances,Variable,7.97,6.61,Asian
+GENE4811,TCF7L2,Selenium,No effect,Neutral,Variable,15.17,2.99,General
+GENE9279,GPX1,Folate,Downregulation,Enhances,High,23.2,3.9,Asian
+GENE1434,GPX1,Zinc,Downregulation,Reduces,Variable,8.02,1.07,Caucasian
+GENE4257,TCF7L2,Zinc,No effect,Enhances,Variable,65.97,6.89,African American
+GENE9928,MTHFR,Omega-3,Upregulation,Neutral,Moderate,41.92,4.87,African American
+GENE7873,TCF7L2,Vitamin D,Upregulation,Enhances,Variable,51.54,8.85,Asian
+GENE4611,SOD2,Zinc,Upregulation,Neutral,High,64.28,4.38,General
+GENE8359,TCF7L2,Selenium,No effect,Enhances,High,61.08,1.89,Asian
+GENE5557,TCF7L2,Omega-3,Downregulation,Enhances,Variable,9.66,0.36,African American
+GENE1106,APOA1,Zinc,Upregulation,Reduces,Moderate,25.97,0.25,General
+GENE3615,SOD2,Zinc,Upregulation,Neutral,Variable,73.2,9.96,Caucasian
+GENE7924,APOA1,Selenium,Upregulation,Reduces,Variable,6.24,2.38,Caucasian
+GENE6574,MTHFR,Omega-3,Downregulation,Neutral,Moderate,92.5,3.89,General
+GENE5552,MTHFR,Omega-3,Downregulation,Neutral,Variable,67.3,7.93,Asian
+GENE3547,SOD2,Vitamin D,Upregulation,Neutral,High,93.2,6.43,African American
+GENE4527,GPX1,Zinc,Downregulation,Reduces,Moderate,84.05,5.0,General
+GENE6514,TCF7L2,Vitamin D,Upregulation,Reduces,Moderate,49.47,9.65,Asian
+GENE2674,APOA1,Omega-3,No effect,Reduces,High,65.7,8.12,General
+GENE2519,SOD2,Vitamin D,Upregulation,Reduces,Variable,39.29,9.67,General
+GENE7224,APOA1,Selenium,No effect,Reduces,Variable,75.63,0.16,African American
+GENE2584,TCF7L2,Folate,Downregulation,Reduces,Moderate,89.59,3.39,Caucasian
+GENE6881,GPX1,Selenium,Upregulation,Enhances,High,83.09,3.38,Caucasian
+GENE6635,APOA1,Omega-3,Downregulation,Reduces,Moderate,80.45,7.21,Caucasian
+GENE5333,SOD2,Selenium,Upregulation,Reduces,Variable,10.54,4.06,Caucasian
+GENE1711,TCF7L2,Omega-3,No effect,Neutral,Variable,63.61,2.12,African American
+GENE8527,TCF7L2,Selenium,Downregulation,Neutral,High,55.26,6.54,Asian
+GENE9785,GPX1,Zinc,Downregulation,Neutral,Moderate,74.76,5.23,General
+GENE3045,SOD2,Zinc,Upregulation,Reduces,Moderate,84.27,9.4,African American
+GENE7201,TCF7L2,Selenium,Downregulation,Neutral,Variable,12.4,8.7,Caucasian
+GENE2291,APOA1,Vitamin D,No effect,Enhances,High,25.51,5.37,Caucasian
+GENE5803,MTHFR,Omega-3,No effect,Enhances,Variable,54.35,7.41,African American
+GENE6925,SOD2,Zinc,Upregulation,Neutral,High,14.62,2.33,General
+GENE4150,APOA1,Omega-3,Upregulation,Neutral,Variable,26.95,0.72,African American
+GENE2139,GPX1,Zinc,Downregulation,Reduces,Variable,41.61,7.35,General
+GENE1750,GPX1,Folate,No effect,Neutral,High,23.35,4.89,African American
+GENE4733,TCF7L2,Selenium,Downregulation,Neutral,Variable,67.4,0.19,Asian
+GENE5741,GPX1,Zinc,No effect,Neutral,High,59.15,9.07,Caucasian
+GENE2307,MTHFR,Selenium,No effect,Neutral,Moderate,95.01,6.18,Asian
+GENE4814,APOA1,Folate,Upregulation,Reduces,High,58.05,2.43,African American
+GENE2654,SOD2,Omega-3,Downregulation,Reduces,High,58.02,6.49,Asian
+GENE7227,TCF7L2,Selenium,No effect,Neutral,Variable,75.88,0.14,General
+GENE5554,SOD2,Zinc,Upregulation,Enhances,Variable,77.8,6.33,African American
+GENE8428,APOA1,Folate,No effect,Reduces,Variable,59.77,9.05,General
+GENE6977,MTHFR,Zinc,Upregulation,Enhances,High,69.08,8.21,Asian
+GENE3664,APOA1,Folate,Upregulation,Reduces,Variable,71.74,0.97,Caucasian
+GENE7065,APOA1,Folate,Upregulation,Reduces,Variable,45.57,6.11,African American
+GENE6820,TCF7L2,Zinc,Downregulation,Neutral,Moderate,14.89,8.35,General
+GENE4432,SOD2,Selenium,Upregulation,Reduces,Moderate,80.28,0.64,Asian
+GENE5374,APOA1,Omega-3,Upregulation,Reduces,High,57.25,8.17,African American
+GENE2169,APOA1,Omega-3,No effect,Reduces,High,52.95,1.14,Caucasian
+GENE3803,MTHFR,Folate,Upregulation,Neutral,Moderate,67.47,5.95,African American
+GENE9751,GPX1,Zinc,No effect,Neutral,High,55.72,6.16,Caucasian
+GENE5010,MTHFR,Folate,No effect,Neutral,High,61.99,0.63,Asian
+GENE3677,SOD2,Omega-3,Downregulation,Reduces,Moderate,93.68,2.03,General
+GENE8573,SOD2,Folate,Upregulation,Enhances,Moderate,90.74,3.37,African American
+GENE7216,TCF7L2,Folate,Upregulation,Enhances,High,57.26,8.36,African American
+GENE5422,GPX1,Omega-3,No effect,Neutral,High,99.7,7.38,General
+GENE4598,SOD2,Selenium,Downregulation,Enhances,Variable,85.26,4.02,African American
+GENE6313,GPX1,Folate,Upregulation,Enhances,High,44.17,1.21,African American
+GENE1916,MTHFR,Selenium,Downregulation,Neutral,Variable,65.16,6.84,African American
+GENE4752,SOD2,Folate,No effect,Reduces,Moderate,83.48,5.46,African American
+GENE1525,APOA1,Zinc,Upregulation,Neutral,Moderate,35.73,3.22,General
+GENE6168,SOD2,Folate,Downregulation,Reduces,Moderate,27.87,9.65,Asian
+GENE7572,GPX1,Folate,Upregulation,Neutral,Moderate,56.83,2.13,African American
+GENE5386,SOD2,Vitamin D,Upregulation,Enhances,High,40.63,0.46,General
+GENE2084,TCF7L2,Zinc,Downregulation,Neutral,High,57.27,1.73,Asian
+GENE4456,APOA1,Zinc,Upregulation,Enhances,Variable,75.73,0.63,General
+GENE6155,TCF7L2,Selenium,No effect,Neutral,Moderate,39.2,2.74,Caucasian
+GENE4483,MTHFR,Selenium,Upregulation,Reduces,High,47.98,7.58,Asian
+GENE9179,SOD2,Folate,Upregulation,Reduces,Variable,96.18,1.68,Asian
+GENE7482,SOD2,Omega-3,Downregulation,Reduces,Variable,5.02,3.7,Caucasian
+GENE8517,MTHFR,Folate,Downregulation,Reduces,Variable,8.29,1.65,Asian
+GENE3340,TCF7L2,Vitamin D,Downregulation,Reduces,Moderate,32.03,2.44,Asian
+GENE5339,APOA1,Folate,Upregulation,Reduces,Variable,6.55,5.82,Caucasian
+GENE3287,TCF7L2,Vitamin D,Downregulation,Neutral,Moderate,17.83,1.33,General
+GENE5040,GPX1,Folate,Upregulation,Enhances,Variable,89.58,7.91,African American
+GENE9830,TCF7L2,Selenium,No effect,Neutral,Variable,5.62,6.32,Asian
+GENE5304,APOA1,Folate,No effect,Neutral,Variable,98.52,3.76,General
+GENE8019,SOD2,Selenium,Upregulation,Neutral,High,25.41,1.58,General
+GENE7543,TCF7L2,Omega-3,Upregulation,Enhances,Moderate,34.92,8.8,Caucasian
+GENE6930,MTHFR,Omega-3,No effect,Reduces,Variable,78.29,0.81,General
+GENE4593,APOA1,Zinc,No effect,Neutral,Moderate,94.62,0.07,Caucasian
+GENE3266,SOD2,Folate,Upregulation,Neutral,Moderate,83.12,9.26,General
+GENE9348,APOA1,Zinc,No effect,Enhances,Variable,92.32,7.07,African American
+GENE9085,MTHFR,Folate,No effect,Neutral,Variable,53.57,5.94,General
+GENE2489,GPX1,Omega-3,Upregulation,Neutral,High,59.21,2.84,General
+GENE1771,APOA1,Vitamin D,Downregulation,Neutral,Variable,59.3,6.94,General
+GENE2796,APOA1,Zinc,Downregulation,Reduces,Moderate,13.96,7.92,Caucasian
+GENE3504,TCF7L2,Zinc,No effect,Neutral,Moderate,48.74,4.76,Asian
+GENE3621,MTHFR,Omega-3,Upregulation,Reduces,High,19.83,1.27,Caucasian
+GENE7916,MTHFR,Omega-3,No effect,Neutral,Variable,30.17,1.43,African American
+GENE2040,GPX1,Vitamin D,No effect,Reduces,Moderate,89.51,2.71,Caucasian
+GENE7304,MTHFR,Zinc,Upregulation,Enhances,Moderate,28.74,4.5,Asian
+GENE7252,APOA1,Omega-3,Downregulation,Neutral,Moderate,29.34,2.39,African American
+GENE8668,GPX1,Omega-3,No effect,Neutral,Moderate,33.53,1.75,Asian
+GENE9669,MTHFR,Vitamin D,No effect,Enhances,Moderate,59.2,6.92,Asian
+GENE5119,GPX1,Vitamin D,Downregulation,Reduces,Variable,59.06,5.96,African American
+GENE1188,MTHFR,Selenium,Upregulation,Enhances,High,25.66,7.17,Asian
+GENE2876,MTHFR,Folate,Upregulation,Reduces,Variable,12.33,6.12,Caucasian
+GENE9797,TCF7L2,Selenium,Upregulation,Enhances,High,35.85,0.88,Asian
+GENE5371,MTHFR,Vitamin D,Upregulation,Neutral,Moderate,50.84,8.26,General
+GENE6573,GPX1,Omega-3,Upregulation,Reduces,High,51.39,3.01,Caucasian
+GENE2827,APOA1,Vitamin D,No effect,Neutral,High,90.41,4.19,Asian
+GENE5808,TCF7L2,Zinc,No effect,Neutral,High,71.77,5.58,General
+GENE8123,MTHFR,Omega-3,Downregulation,Enhances,Variable,82.85,1.92,Caucasian
+GENE3591,MTHFR,Selenium,Downregulation,Neutral,Variable,14.06,9.87,African American
+GENE8433,GPX1,Selenium,Downregulation,Reduces,Moderate,66.01,9.77,Caucasian
+GENE1053,TCF7L2,Selenium,Downregulation,Neutral,High,8.55,6.19,African American
+GENE5315,MTHFR,Omega-3,Upregulation,Enhances,High,81.79,8.63,Caucasian
+GENE9201,APOA1,Folate,Upregulation,Enhances,High,41.25,9.87,General
+GENE3927,APOA1,Folate,Downregulation,Reduces,High,79.11,5.08,African American
+GENE9317,MTHFR,Folate,No effect,Enhances,Moderate,92.58,4.64,Caucasian
+GENE2743,APOA1,Vitamin D,Upregulation,Neutral,Variable,36.77,6.26,African American
+GENE5889,TCF7L2,Vitamin D,Upregulation,Reduces,Variable,88.58,2.08,Asian
+GENE9317,MTHFR,Zinc,No effect,Reduces,High,46.26,0.53,Caucasian
+GENE4258,GPX1,Omega-3,No effect,Reduces,Variable,93.37,1.13,Caucasian
+GENE3504,TCF7L2,Zinc,No effect,Reduces,High,16.45,1.49,General
+GENE7126,APOA1,Vitamin D,No effect,Reduces,Moderate,78.19,8.44,General
+GENE3646,MTHFR,Omega-3,No effect,Neutral,Moderate,76.03,9.11,General
+GENE9837,TCF7L2,Selenium,Downregulation,Reduces,Variable,85.7,4.98,African American
+GENE9689,APOA1,Omega-3,No effect,Reduces,High,93.22,1.6,Caucasian
+GENE1009,MTHFR,Vitamin D,Upregulation,Enhances,Moderate,65.22,9.23,African American
+GENE6310,SOD2,Selenium,No effect,Reduces,Variable,65.06,0.54,Caucasian
+GENE9005,GPX1,Selenium,Downregulation,Enhances,Moderate,10.14,3.64,General
+GENE1319,APOA1,Omega-3,Upregulation,Neutral,Moderate,54.82,2.1,African American
+GENE2832,APOA1,Folate,No effect,Neutral,High,35.34,2.51,Asian
+GENE6947,SOD2,Vitamin D,No effect,Neutral,Variable,58.67,6.17,Asian
+GENE6038,SOD2,Vitamin D,No effect,Neutral,High,36.05,8.9,Caucasian
+GENE4923,TCF7L2,Folate,Upregulation,Enhances,Variable,71.29,4.53,African American
+GENE1949,GPX1,Zinc,No effect,Reduces,Moderate,19.55,1.04,African American
+GENE4946,GPX1,Zinc,Downregulation,Enhances,High,69.0,0.52,Caucasian
+GENE2290,APOA1,Vitamin D,Downregulation,Neutral,High,99.75,5.37,Caucasian
+GENE2403,SOD2,Folate,No effect,Enhances,High,97.25,1.58,General
+GENE8962,GPX1,Folate,Upregulation,Neutral,High,76.52,0.29,Caucasian
+GENE2133,MTHFR,Selenium,Upregulation,Reduces,Variable,59.65,5.15,General
+GENE9727,GPX1,Zinc,Downregulation,Neutral,Variable,13.56,0.71,African American
+GENE3060,APOA1,Zinc,Downregulation,Reduces,High,46.03,2.35,Asian
+GENE3103,GPX1,Selenium,Upregulation,Reduces,High,79.7,4.45,Asian
+GENE8787,TCF7L2,Omega-3,Upregulation,Enhances,Variable,19.06,5.8,General
+GENE3705,SOD2,Zinc,Downregulation,Enhances,Variable,36.94,4.19,Caucasian
+GENE5342,APOA1,Selenium,No effect,Enhances,High,50.21,7.47,Caucasian
+GENE9645,APOA1,Folate,No effect,Enhances,Variable,75.8,8.98,Asian
+GENE7932,SOD2,Omega-3,Upregulation,Reduces,High,57.07,2.3,Asian
+GENE4470,SOD2,Vitamin D,No effect,Reduces,High,29.94,1.1,General
+GENE9835,SOD2,Folate,Upregulation,Neutral,High,42.86,2.28,General
+GENE4295,APOA1,Omega-3,Downregulation,Reduces,Moderate,46.28,2.37,African American
+GENE6107,SOD2,Selenium,Downregulation,Enhances,High,71.3,4.13,Asian
+GENE7537,SOD2,Folate,Upregulation,Reduces,Variable,77.39,2.0,Caucasian
+GENE7118,APOA1,Omega-3,Downregulation,Neutral,Moderate,50.69,8.91,African American
+GENE8177,APOA1,Vitamin D,No effect,Enhances,Variable,23.82,0.74,General
+GENE9479,TCF7L2,Folate,Downregulation,Enhances,Variable,42.56,5.85,General
+GENE8397,GPX1,Folate,Downregulation,Reduces,Variable,59.28,0.54,African American
+GENE2982,MTHFR,Zinc,No effect,Reduces,High,58.31,4.36,Asian
+GENE5061,APOA1,Omega-3,No effect,Neutral,Variable,99.72,2.16,African American
+GENE4681,MTHFR,Omega-3,Upregulation,Enhances,Variable,54.8,6.09,Caucasian
+GENE2049,TCF7L2,Zinc,Downregulation,Reduces,Variable,28.02,1.78,African American
+GENE6539,GPX1,Selenium,Upregulation,Neutral,Moderate,30.29,3.73,Asian
+GENE1344,GPX1,Selenium,Upregulation,Enhances,High,45.86,4.58,General
+GENE4770,GPX1,Zinc,No effect,Enhances,High,70.05,1.94,General
+GENE4608,TCF7L2,Folate,Upregulation,Reduces,Moderate,59.72,3.59,General
+GENE1117,SOD2,Vitamin D,Upregulation,Reduces,Variable,15.69,2.7,General
+GENE2163,GPX1,Selenium,Downregulation,Enhances,Moderate,44.29,3.36,African American
+GENE1964,GPX1,Vitamin D,Upregulation,Enhances,Moderate,39.7,0.32,General
+GENE4750,TCF7L2,Omega-3,Upregulation,Neutral,High,23.1,5.69,Caucasian
+GENE2104,SOD2,Omega-3,Upregulation,Enhances,High,37.73,2.81,General
+GENE1514,GPX1,Selenium,Downregulation,Reduces,Moderate,67.26,1.11,African American
+GENE6413,GPX1,Folate,No effect,Enhances,Variable,78.12,4.66,Asian
+GENE2160,SOD2,Omega-3,Downregulation,Enhances,High,21.08,4.18,General
+GENE9423,APOA1,Vitamin D,No effect,Neutral,Variable,38.22,7.6,General
+GENE4899,APOA1,Folate,No effect,Reduces,High,83.05,2.2,Caucasian
+GENE5562,GPX1,Selenium,No effect,Neutral,Variable,81.27,2.95,Caucasian
+GENE8953,MTHFR,Omega-3,Downregulation,Reduces,Variable,64.2,1.57,African American
+GENE4510,SOD2,Selenium,Downregulation,Reduces,Variable,46.84,7.95,General
+GENE9834,SOD2,Folate,No effect,Reduces,Moderate,92.8,9.53,Asian
+GENE3167,MTHFR,Folate,Downregulation,Reduces,High,27.18,9.06,Asian
+GENE8744,SOD2,Folate,Upregulation,Reduces,Variable,70.11,5.78,General
+GENE4981,TCF7L2,Zinc,No effect,Enhances,Variable,19.82,5.53,Caucasian
+GENE8749,SOD2,Zinc,No effect,Enhances,Moderate,74.21,2.3,African American
+GENE7669,SOD2,Vitamin D,No effect,Neutral,Moderate,13.15,4.12,General
+GENE4119,SOD2,Folate,No effect,Enhances,Variable,75.26,5.22,General
+GENE2545,APOA1,Folate,Upregulation,Neutral,Variable,28.09,8.62,Caucasian
+GENE2588,TCF7L2,Omega-3,Downregulation,Reduces,High,64.0,2.16,General
+GENE8062,SOD2,Vitamin D,Upregulation,Enhances,High,19.03,4.73,African American
+GENE6804,TCF7L2,Vitamin D,Downregulation,Reduces,Moderate,84.08,4.63,Asian
+GENE7939,TCF7L2,Selenium,Upregulation,Neutral,Moderate,32.33,0.15,Asian
+GENE7735,TCF7L2,Folate,No effect,Enhances,High,37.61,4.28,African American
+GENE8651,MTHFR,Omega-3,Upregulation,Enhances,High,81.41,8.73,Asian
+GENE1887,SOD2,Selenium,Upregulation,Neutral,High,33.99,2.48,General
+GENE2612,APOA1,Zinc,No effect,Enhances,High,49.76,4.34,African American
+GENE1993,APOA1,Folate,Downregulation,Neutral,Variable,36.53,2.22,Caucasian
+GENE7596,APOA1,Vitamin D,Downregulation,Neutral,Variable,75.3,9.27,Caucasian
+GENE6559,APOA1,Folate,No effect,Enhances,Variable,25.13,9.46,Caucasian
+GENE2790,SOD2,Folate,No effect,Enhances,Moderate,56.91,9.14,Caucasian
+GENE5073,APOA1,Zinc,No effect,Neutral,High,76.28,8.98,General
+GENE4139,TCF7L2,Omega-3,No effect,Reduces,Variable,57.14,4.18,General
+GENE4116,MTHFR,Omega-3,No effect,Reduces,High,64.19,0.44,Caucasian
+GENE9786,GPX1,Omega-3,Upregulation,Enhances,High,99.27,9.91,General
+GENE8350,APOA1,Selenium,Downregulation,Enhances,Moderate,71.03,7.33,African American
+GENE3296,GPX1,Omega-3,No effect,Reduces,Variable,68.48,5.04,African American
+GENE7912,GPX1,Selenium,Downregulation,Neutral,Variable,40.78,4.26,African American
+GENE4006,GPX1,Zinc,No effect,Neutral,High,91.07,3.94,Caucasian
+GENE5563,TCF7L2,Folate,Upregulation,Reduces,Variable,55.05,8.1,Caucasian
+GENE8579,APOA1,Selenium,Upregulation,Enhances,Variable,29.27,6.97,Caucasian
+GENE5092,SOD2,Zinc,Upregulation,Enhances,High,10.71,0.98,General
+GENE2235,TCF7L2,Selenium,Upregulation,Enhances,High,24.07,4.95,Asian
+GENE8260,SOD2,Zinc,Downregulation,Reduces,Moderate,71.17,0.83,Asian
+GENE2604,APOA1,Omega-3,Upregulation,Reduces,Variable,30.77,7.53,General
+GENE1828,TCF7L2,Omega-3,Downregulation,Reduces,High,49.17,6.93,Caucasian
+GENE9856,GPX1,Zinc,No effect,Neutral,Variable,94.79,4.07,Caucasian
+GENE1241,TCF7L2,Vitamin D,No effect,Neutral,Variable,11.33,2.18,General
+GENE2528,TCF7L2,Zinc,Upregulation,Neutral,High,67.74,3.58,African American
+GENE4872,APOA1,Selenium,Downregulation,Neutral,Variable,67.98,2.39,African American
+GENE3724,GPX1,Zinc,No effect,Reduces,Variable,91.72,9.99,General
+GENE7658,GPX1,Folate,No effect,Reduces,Moderate,39.22,0.16,General
+GENE8956,MTHFR,Vitamin D,No effect,Neutral,Variable,15.25,6.69,African American
+GENE8886,MTHFR,Zinc,No effect,Enhances,Moderate,32.79,1.62,African American
+GENE4502,SOD2,Vitamin D,Upregulation,Reduces,Moderate,88.92,4.59,Asian
+GENE7570,MTHFR,Vitamin D,Upregulation,Reduces,High,41.72,5.7,Asian
+GENE1960,APOA1,Zinc,Upregulation,Reduces,Variable,98.08,5.84,Asian
+GENE3697,TCF7L2,Zinc,No effect,Enhances,Variable,53.31,9.76,Caucasian
+GENE7209,GPX1,Omega-3,Upregulation,Enhances,Moderate,72.42,4.64,African American
+GENE1035,TCF7L2,Zinc,No effect,Reduces,High,90.87,1.39,Caucasian
+GENE7396,APOA1,Zinc,Upregulation,Enhances,Moderate,51.04,7.03,General
+GENE5345,TCF7L2,Omega-3,Upregulation,Enhances,Moderate,61.73,1.85,Caucasian
+GENE8454,GPX1,Omega-3,Downregulation,Enhances,Moderate,13.36,8.72,Caucasian
+GENE5673,MTHFR,Folate,Downregulation,Neutral,Variable,23.89,6.27,General
+GENE7930,SOD2,Zinc,No effect,Enhances,Variable,96.85,7.04,Caucasian
+GENE8973,GPX1,Selenium,No effect,Enhances,Variable,58.27,0.01,Caucasian
+GENE3536,GPX1,Vitamin D,No effect,Neutral,Variable,72.68,6.27,Asian
+GENE4111,GPX1,Omega-3,Downregulation,Enhances,High,8.78,3.85,General
+GENE5861,GPX1,Zinc,Upregulation,Neutral,Moderate,92.62,6.91,General
+GENE4566,APOA1,Selenium,Downregulation,Neutral,High,33.97,5.31,General
+GENE1958,GPX1,Vitamin D,Upregulation,Enhances,Moderate,51.54,2.97,General
+GENE9883,TCF7L2,Zinc,No effect,Enhances,Moderate,75.72,7.53,African American
+GENE1998,APOA1,Selenium,Downregulation,Reduces,High,6.75,6.98,African American
+GENE6138,MTHFR,Vitamin D,No effect,Neutral,High,70.01,6.13,General
+GENE1936,TCF7L2,Selenium,Upregulation,Neutral,Moderate,38.76,5.75,African American
+GENE1821,TCF7L2,Omega-3,Upregulation,Enhances,Variable,33.72,2.07,Caucasian
+GENE8811,TCF7L2,Zinc,Downregulation,Reduces,Variable,99.62,6.85,Asian
+GENE9238,TCF7L2,Selenium,Downregulation,Neutral,Moderate,97.97,6.2,Asian
+GENE9701,APOA1,Selenium,Downregulation,Reduces,Moderate,31.21,3.36,Caucasian
+GENE3579,MTHFR,Zinc,No effect,Neutral,High,10.89,9.32,Asian
+GENE1931,MTHFR,Vitamin D,Upregulation,Neutral,High,29.48,5.15,Caucasian
+GENE9320,GPX1,Zinc,Downregulation,Enhances,Variable,41.78,9.1,Caucasian
+GENE2312,SOD2,Selenium,No effect,Neutral,Variable,100.0,3.64,Asian
+GENE4044,APOA1,Folate,No effect,Enhances,High,99.08,0.52,Caucasian
+GENE2122,MTHFR,Vitamin D,No effect,Neutral,Variable,94.69,3.83,Asian
+GENE2113,APOA1,Selenium,Upregulation,Enhances,Variable,95.17,4.65,General
+GENE4853,APOA1,Folate,Downregulation,Neutral,High,26.43,0.41,Asian
+GENE7615,GPX1,Vitamin D,Downregulation,Enhances,Variable,37.47,3.66,Asian
+GENE2964,MTHFR,Omega-3,No effect,Enhances,High,42.32,6.48,General
+GENE5033,SOD2,Zinc,Downregulation,Neutral,Moderate,18.04,7.05,Asian
+GENE1651,SOD2,Vitamin D,Upregulation,Enhances,Variable,74.34,5.61,Caucasian
+GENE2343,SOD2,Vitamin D,Downregulation,Reduces,High,54.47,7.74,African American
+GENE7868,TCF7L2,Selenium,No effect,Reduces,Variable,69.41,1.38,General
+GENE9565,MTHFR,Folate,Upregulation,Reduces,Moderate,87.91,3.35,Asian
+GENE6183,TCF7L2,Vitamin D,Downregulation,Enhances,Moderate,70.22,5.4,General
+GENE5272,TCF7L2,Zinc,Upregulation,Neutral,Moderate,44.65,6.49,General
+GENE4346,TCF7L2,Vitamin D,Downregulation,Reduces,High,59.43,7.37,Caucasian
+GENE6147,GPX1,Vitamin D,Upregulation,Reduces,High,45.51,7.52,Caucasian
+GENE4910,GPX1,Selenium,No effect,Neutral,Moderate,34.68,8.71,Asian
+GENE5351,APOA1,Vitamin D,No effect,Enhances,Variable,62.51,7.03,Asian
+GENE7484,APOA1,Folate,No effect,Enhances,Variable,47.67,7.53,General
+GENE3144,MTHFR,Selenium,Upregulation,Neutral,Moderate,17.52,7.61,General
+GENE5915,MTHFR,Omega-3,Upregulation,Neutral,Moderate,66.98,3.2,General
+GENE8491,GPX1,Omega-3,No effect,Neutral,Variable,60.2,8.98,Caucasian
+GENE6180,APOA1,Selenium,No effect,Enhances,Moderate,69.98,5.04,General
+GENE2188,APOA1,Folate,Upregulation,Reduces,Variable,24.22,4.23,Asian
+GENE1152,TCF7L2,Selenium,Upregulation,Reduces,Moderate,18.12,0.54,Asian
+GENE8508,SOD2,Selenium,Upregulation,Neutral,Variable,70.41,3.73,African American
+GENE2638,SOD2,Selenium,Upregulation,Enhances,Moderate,90.37,4.52,General
+GENE2200,SOD2,Selenium,Upregulation,Neutral,Variable,91.41,5.01,Caucasian
+GENE9808,GPX1,Vitamin D,Downregulation,Neutral,Moderate,45.86,8.3,African American
+GENE4492,SOD2,Zinc,Downregulation,Reduces,High,91.36,4.7,Caucasian
+GENE9288,SOD2,Omega-3,Downregulation,Neutral,Moderate,78.15,5.32,Caucasian
+GENE5345,TCF7L2,Folate,Upregulation,Neutral,Variable,67.34,8.25,General
+GENE3170,MTHFR,Vitamin D,Upregulation,Neutral,Variable,58.66,8.99,General
+GENE6718,GPX1,Omega-3,Upregulation,Enhances,Moderate,20.01,4.52,General
+GENE2127,APOA1,Zinc,No effect,Reduces,High,11.44,3.68,African American
+GENE5002,TCF7L2,Selenium,No effect,Enhances,Moderate,55.63,6.73,Caucasian
+GENE7054,SOD2,Zinc,No effect,Neutral,Variable,73.35,6.93,General
+GENE5669,APOA1,Omega-3,No effect,Neutral,Variable,22.49,9.78,General
+GENE3584,TCF7L2,Omega-3,Downregulation,Neutral,Moderate,84.75,8.83,General
+GENE8179,GPX1,Vitamin D,Upregulation,Enhances,Moderate,18.82,1.88,General
+GENE9900,SOD2,Vitamin D,Downregulation,Reduces,Moderate,7.8,8.84,Asian
+GENE5956,GPX1,Folate,Upregulation,Enhances,Variable,35.28,0.87,Caucasian
+GENE9666,TCF7L2,Selenium,Downregulation,Enhances,Moderate,97.43,3.91,Caucasian
+GENE1128,APOA1,Zinc,No effect,Reduces,Variable,96.31,1.79,General
+GENE5905,MTHFR,Selenium,Downregulation,Enhances,Moderate,33.82,9.58,African American
+GENE2697,SOD2,Zinc,Downregulation,Neutral,Variable,75.83,0.77,Caucasian
+GENE3200,GPX1,Selenium,Upregulation,Enhances,High,83.06,1.65,African American
+GENE5333,APOA1,Omega-3,No effect,Reduces,Variable,65.5,1.12,General
+GENE2891,APOA1,Omega-3,Downregulation,Neutral,High,75.14,1.48,General
+GENE2753,MTHFR,Selenium,Upregulation,Enhances,Variable,19.44,1.5,Caucasian
+GENE3546,TCF7L2,Folate,No effect,Reduces,High,22.85,2.04,General
+GENE5462,MTHFR,Omega-3,No effect,Neutral,Moderate,17.5,9.52,African American
+GENE5616,MTHFR,Folate,Upregulation,Reduces,Variable,7.49,0.23,General
+GENE4450,TCF7L2,Omega-3,Upregulation,Reduces,High,98.67,4.17,General
+GENE6617,TCF7L2,Vitamin D,Upregulation,Enhances,High,63.61,6.82,Caucasian
+GENE4335,TCF7L2,Vitamin D,No effect,Enhances,High,62.53,9.32,Asian
+GENE5325,APOA1,Selenium,Upregulation,Neutral,Variable,63.17,4.74,African American
+GENE9280,APOA1,Zinc,Downregulation,Reduces,Moderate,61.65,4.2,Asian
+GENE9004,SOD2,Vitamin D,Upregulation,Enhances,Moderate,26.94,7.38,General
+GENE5114,SOD2,Omega-3,Downregulation,Neutral,Variable,7.48,0.21,African American
+GENE1832,MTHFR,Omega-3,Downregulation,Reduces,Variable,12.55,1.89,General
+GENE2512,MTHFR,Vitamin D,Downregulation,Reduces,Variable,79.08,0.22,Asian
+GENE7939,SOD2,Vitamin D,Downregulation,Enhances,Variable,17.74,8.02,Asian
+GENE5533,GPX1,Zinc,Upregulation,Enhances,Variable,85.38,8.35,African American
+GENE1722,MTHFR,Vitamin D,No effect,Enhances,High,49.53,5.2,General
+GENE1058,GPX1,Selenium,Downregulation,Neutral,High,66.71,3.36,Asian
+GENE6464,GPX1,Zinc,Upregulation,Enhances,Moderate,22.48,5.79,African American
+GENE3143,TCF7L2,Vitamin D,Downregulation,Enhances,Variable,41.81,6.56,General
+GENE5291,APOA1,Omega-3,Upregulation,Neutral,High,50.02,7.87,General
+GENE3647,SOD2,Vitamin D,Downregulation,Neutral,High,20.56,4.86,African American
+GENE8239,APOA1,Selenium,No effect,Reduces,High,26.5,6.66,General
+GENE8007,SOD2,Selenium,Downregulation,Enhances,Moderate,43.82,5.3,Asian
+GENE1158,APOA1,Omega-3,No effect,Enhances,Variable,97.04,5.48,Asian
+GENE2832,SOD2,Zinc,No effect,Neutral,Moderate,92.92,4.58,African American
+GENE2232,APOA1,Omega-3,Upregulation,Enhances,High,95.27,5.67,Caucasian
+GENE3442,TCF7L2,Vitamin D,Downregulation,Neutral,High,26.14,8.98,General
+GENE9938,GPX1,Omega-3,Downregulation,Neutral,Moderate,68.78,3.06,Asian
+GENE1590,SOD2,Zinc,No effect,Enhances,High,24.27,7.89,Asian
+GENE7049,GPX1,Folate,Downregulation,Reduces,Moderate,24.43,2.27,Asian
+GENE3426,SOD2,Omega-3,Upregulation,Neutral,High,21.82,3.72,Asian
+GENE8041,SOD2,Zinc,No effect,Enhances,Variable,95.7,2.88,General
+GENE3088,TCF7L2,Folate,No effect,Reduces,High,46.73,8.46,Caucasian
+GENE1685,APOA1,Zinc,Upregulation,Reduces,Variable,63.62,1.48,General
+GENE6050,SOD2,Zinc,Upregulation,Reduces,Moderate,70.35,2.84,General
+GENE6974,APOA1,Folate,Upregulation,Reduces,Moderate,87.34,9.56,African American
+GENE1653,TCF7L2,Omega-3,Downregulation,Enhances,Variable,89.32,6.19,Asian
+GENE6862,MTHFR,Folate,Upregulation,Enhances,Variable,45.62,1.61,Asian
+GENE4441,GPX1,Omega-3,Upregulation,Enhances,Variable,78.74,5.35,Caucasian
+GENE5088,SOD2,Zinc,No effect,Enhances,Moderate,62.75,1.82,Caucasian
+GENE2684,TCF7L2,Omega-3,Downregulation,Reduces,Variable,83.31,1.75,African American
+GENE6794,APOA1,Selenium,No effect,Reduces,Variable,73.42,7.08,African American
+GENE7658,SOD2,Folate,No effect,Neutral,High,42.44,9.05,African American
+GENE3532,APOA1,Folate,Upregulation,Reduces,High,94.22,7.94,Asian
+GENE4878,MTHFR,Vitamin D,Downregulation,Reduces,Variable,59.33,1.61,Asian
+GENE3662,SOD2,Zinc,Upregulation,Neutral,Moderate,55.94,1.17,Caucasian
+GENE3900,GPX1,Zinc,No effect,Enhances,Moderate,65.93,9.94,Caucasian
+GENE7755,SOD2,Omega-3,Downregulation,Enhances,High,71.89,5.75,African American
+GENE1406,GPX1,Selenium,No effect,Enhances,High,8.66,4.41,General
+GENE3938,APOA1,Zinc,No effect,Enhances,Variable,15.39,3.7,Caucasian
+GENE6442,SOD2,Selenium,Downregulation,Enhances,Variable,48.41,2.05,Asian
+GENE7745,TCF7L2,Vitamin D,Upregulation,Neutral,Moderate,88.39,7.07,Caucasian
+GENE5065,TCF7L2,Folate,Upregulation,Neutral,High,88.39,6.66,Asian
+GENE5371,MTHFR,Selenium,No effect,Enhances,High,28.34,9.78,General
+GENE3608,TCF7L2,Zinc,Upregulation,Reduces,Variable,56.1,1.48,African American
+GENE2771,MTHFR,Folate,Downregulation,Reduces,Variable,98.46,4.48,African American
+GENE7267,APOA1,Selenium,Downregulation,Reduces,Variable,8.73,9.75,African American
+GENE1634,GPX1,Selenium,Upregulation,Neutral,Variable,41.8,5.34,Caucasian
+GENE8711,APOA1,Omega-3,Upregulation,Reduces,High,77.69,1.21,African American
+GENE4644,GPX1,Folate,No effect,Neutral,Variable,96.45,0.25,Asian
+GENE4269,GPX1,Selenium,Downregulation,Enhances,High,23.04,9.31,Caucasian
+GENE8541,MTHFR,Omega-3,Upregulation,Reduces,Variable,46.76,7.69,Caucasian
+GENE6728,TCF7L2,Zinc,Upregulation,Reduces,High,89.02,9.48,General
+GENE6000,TCF7L2,Selenium,Upregulation,Enhances,Moderate,78.5,9.28,General
+GENE4728,MTHFR,Omega-3,No effect,Enhances,High,32.16,1.56,Caucasian
+GENE4652,MTHFR,Omega-3,Downregulation,Reduces,Variable,20.82,9.7,Caucasian
+GENE1387,APOA1,Folate,No effect,Reduces,High,32.97,5.46,Caucasian
+GENE4164,MTHFR,Omega-3,Downregulation,Reduces,High,92.31,5.07,Caucasian
+GENE7528,TCF7L2,Selenium,Downregulation,Reduces,High,70.55,6.47,Caucasian
+GENE6378,MTHFR,Vitamin D,No effect,Reduces,Moderate,90.85,2.96,Asian
+GENE5564,MTHFR,Zinc,Upregulation,Neutral,Moderate,49.04,8.96,Caucasian
+GENE2137,GPX1,Selenium,No effect,Reduces,Moderate,66.38,9.7,Asian
+GENE5573,MTHFR,Selenium,Upregulation,Reduces,Variable,13.59,7.54,African American
+GENE6753,APOA1,Zinc,No effect,Neutral,Moderate,52.56,9.94,Asian
+GENE9346,MTHFR,Zinc,Upregulation,Enhances,Moderate,22.08,6.67,African American
+GENE7548,SOD2,Omega-3,No effect,Enhances,Variable,60.62,8.0,General
+GENE9785,SOD2,Selenium,Downregulation,Enhances,High,89.96,7.29,General
+GENE6425,GPX1,Omega-3,Upregulation,Neutral,Variable,56.91,9.22,Caucasian
+GENE1452,GPX1,Folate,No effect,Neutral,High,42.34,3.39,Asian
+GENE2889,SOD2,Omega-3,No effect,Enhances,Variable,35.73,1.12,African American
+GENE5279,GPX1,Folate,Upregulation,Enhances,Variable,7.37,4.79,African American
+GENE3925,GPX1,Vitamin D,Downregulation,Enhances,High,48.1,0.4,Asian
+GENE5349,TCF7L2,Selenium,No effect,Reduces,High,90.18,6.78,Caucasian
+GENE1626,TCF7L2,Folate,Upregulation,Neutral,Variable,90.1,1.17,Asian
+GENE2776,MTHFR,Vitamin D,Upregulation,Reduces,Moderate,88.84,0.25,General
+GENE8119,SOD2,Zinc,Downregulation,Neutral,Variable,13.57,6.18,General
+GENE6663,APOA1,Omega-3,Downregulation,Neutral,Variable,35.79,2.2,Caucasian
+GENE6139,SOD2,Vitamin D,Downregulation,Reduces,Variable,66.61,3.57,Asian
+GENE8149,SOD2,Folate,Downregulation,Enhances,Moderate,72.59,3.26,General
+GENE9379,TCF7L2,Selenium,No effect,Neutral,Moderate,20.58,6.08,African American
+GENE2894,TCF7L2,Zinc,No effect,Reduces,Moderate,74.66,1.95,African American
+GENE7311,GPX1,Zinc,Downregulation,Reduces,High,13.66,5.26,Asian
+GENE4114,APOA1,Vitamin D,Downregulation,Neutral,Variable,72.09,7.81,Caucasian
+GENE5173,TCF7L2,Vitamin D,Downregulation,Enhances,High,65.24,7.67,African American
+GENE1727,GPX1,Omega-3,Downregulation,Neutral,Moderate,13.1,1.96,African American
+GENE8144,APOA1,Zinc,Upregulation,Neutral,Moderate,72.19,0.84,General
+GENE1027,TCF7L2,Zinc,Upregulation,Enhances,Variable,74.05,8.49,African American
+GENE9518,SOD2,Omega-3,Upregulation,Reduces,High,97.64,6.77,Asian
+GENE9821,SOD2,Selenium,Upregulation,Reduces,Moderate,63.15,9.58,Asian
+GENE4228,APOA1,Omega-3,No effect,Enhances,High,20.19,9.76,General
+GENE6967,APOA1,Folate,Upregulation,Reduces,Moderate,57.28,3.94,Asian
+GENE8066,TCF7L2,Folate,Upregulation,Reduces,Variable,9.17,4.9,Asian
+GENE2146,TCF7L2,Vitamin D,Upregulation,Enhances,High,21.23,6.03,General
+GENE6409,APOA1,Omega-3,Upregulation,Enhances,Variable,36.84,5.12,General
+GENE6143,APOA1,Omega-3,Downregulation,Reduces,High,87.77,0.56,General
+GENE3041,GPX1,Vitamin D,Downregulation,Neutral,Variable,86.95,6.67,General
+GENE5920,GPX1,Selenium,Downregulation,Reduces,Moderate,20.4,3.98,African American
+GENE9308,GPX1,Omega-3,Downregulation,Enhances,Moderate,18.74,7.16,Caucasian
+GENE6067,SOD2,Zinc,Upregulation,Neutral,High,78.07,4.28,General
+GENE7691,SOD2,Omega-3,No effect,Neutral,Variable,9.87,3.86,Asian
+GENE6344,GPX1,Selenium,Downregulation,Neutral,Moderate,34.27,0.12,Caucasian
+GENE7592,GPX1,Omega-3,Upregulation,Neutral,Variable,74.37,3.45,Caucasian
+GENE5844,APOA1,Zinc,Downregulation,Neutral,Variable,96.29,3.08,Caucasian
+GENE3085,SOD2,Folate,Downregulation,Neutral,Moderate,32.43,4.46,African American
+GENE4143,GPX1,Folate,Downregulation,Neutral,Variable,22.17,5.61,African American
+GENE7888,MTHFR,Selenium,Downregulation,Enhances,Moderate,90.36,2.16,General
+GENE7211,TCF7L2,Selenium,Upregulation,Neutral,Moderate,96.24,8.88,Asian
+GENE3851,GPX1,Zinc,Upregulation,Reduces,Variable,5.34,7.42,General
+GENE5930,SOD2,Folate,Upregulation,Neutral,Moderate,77.71,4.16,Caucasian
+GENE7653,GPX1,Folate,No effect,Neutral,High,6.16,4.43,General
+GENE9977,MTHFR,Folate,Downregulation,Neutral,Moderate,52.27,1.64,Caucasian
+GENE1006,APOA1,Folate,No effect,Neutral,Moderate,52.37,7.28,Asian
+GENE5978,SOD2,Zinc,No effect,Neutral,Variable,81.71,8.98,Caucasian
+GENE5700,APOA1,Selenium,No effect,Enhances,Moderate,62.76,7.29,African American
+GENE4443,TCF7L2,Selenium,Upregulation,Reduces,Variable,51.88,4.14,General
+GENE8043,APOA1,Vitamin D,Upregulation,Neutral,High,25.6,8.36,General
+GENE6279,GPX1,Selenium,Downregulation,Neutral,Moderate,67.65,5.98,African American
+GENE8618,MTHFR,Folate,Upregulation,Enhances,High,48.11,1.44,African American
+GENE8238,APOA1,Omega-3,Upregulation,Reduces,Moderate,46.98,3.03,African American
+GENE8244,MTHFR,Folate,No effect,Reduces,High,62.12,9.88,Caucasian
+GENE4501,SOD2,Folate,Upregulation,Neutral,Moderate,5.62,5.25,African American
+GENE9375,SOD2,Selenium,Downregulation,Neutral,Variable,88.81,3.35,Asian
+GENE8752,GPX1,Vitamin D,Downregulation,Neutral,High,31.42,9.33,General
+GENE3780,GPX1,Zinc,No effect,Reduces,Variable,64.72,5.91,General
+GENE2389,GPX1,Omega-3,Upregulation,Enhances,Variable,82.91,3.76,Asian
+GENE5649,MTHFR,Omega-3,No effect,Neutral,High,24.73,0.07,General
+GENE9445,TCF7L2,Vitamin D,Downregulation,Neutral,Moderate,22.56,6.39,African American
+GENE6491,TCF7L2,Folate,Downregulation,Enhances,Moderate,10.23,2.73,General
+GENE2530,TCF7L2,Zinc,Upregulation,Enhances,Moderate,38.16,1.75,Asian
+GENE4848,SOD2,Zinc,Upregulation,Neutral,Variable,18.81,4.62,African American
+GENE6085,SOD2,Zinc,Downregulation,Enhances,Variable,8.08,5.68,Caucasian
+GENE4680,TCF7L2,Selenium,Downregulation,Neutral,High,59.92,9.15,Caucasian
+GENE4262,GPX1,Folate,No effect,Reduces,Variable,62.31,1.99,African American
+GENE3414,APOA1,Omega-3,No effect,Reduces,Moderate,36.46,8.32,General
+GENE1400,TCF7L2,Omega-3,No effect,Enhances,High,13.33,2.89,Asian
+GENE1757,APOA1,Folate,Upregulation,Enhances,Moderate,15.34,4.91,African American
+GENE5011,TCF7L2,Omega-3,Upregulation,Reduces,High,99.4,8.23,Asian
+GENE8784,APOA1,Selenium,Downregulation,Reduces,Moderate,20.33,3.02,Caucasian
+GENE2193,GPX1,Zinc,Upregulation,Enhances,Variable,32.02,5.85,African American
+GENE8461,SOD2,Omega-3,Upregulation,Reduces,Variable,67.79,4.94,African American
+GENE7790,TCF7L2,Selenium,Upregulation,Reduces,Moderate,71.49,7.4,Asian
+GENE4185,TCF7L2,Zinc,Upregulation,Enhances,High,59.37,2.25,Caucasian
+GENE7291,GPX1,Folate,Upregulation,Neutral,Variable,58.41,7.91,Caucasian
+GENE9099,MTHFR,Folate,Upregulation,Enhances,High,96.8,1.54,African American
+GENE7547,TCF7L2,Selenium,Upregulation,Neutral,Moderate,76.19,3.0,Asian
+GENE4997,APOA1,Selenium,Upregulation,Neutral,Moderate,39.22,6.41,African American
+GENE3417,GPX1,Selenium,Downregulation,Reduces,Moderate,8.4,6.37,General
+GENE1090,MTHFR,Omega-3,Downregulation,Reduces,High,78.01,1.24,Caucasian
+GENE2746,TCF7L2,Folate,No effect,Enhances,Variable,35.67,6.66,Caucasian
+GENE7965,TCF7L2,Omega-3,No effect,Enhances,Moderate,90.27,2.88,African American
+GENE4585,SOD2,Omega-3,No effect,Reduces,High,82.93,1.79,African American
+GENE3881,MTHFR,Zinc,Upregulation,Reduces,Variable,77.05,9.07,African American
+GENE9486,GPX1,Selenium,No effect,Neutral,Variable,85.11,6.45,Caucasian
+GENE8611,APOA1,Omega-3,No effect,Reduces,High,11.17,0.28,Caucasian
+GENE1822,TCF7L2,Zinc,Downregulation,Enhances,Moderate,49.73,7.65,Caucasian
+GENE5082,GPX1,Vitamin D,Upregulation,Reduces,Variable,16.59,4.93,General
+GENE2988,SOD2,Zinc,Upregulation,Reduces,High,86.64,9.71,African American
+GENE8478,TCF7L2,Vitamin D,Upregulation,Reduces,High,36.27,5.99,Caucasian
+GENE3184,MTHFR,Vitamin D,Upregulation,Enhances,Variable,44.31,3.62,General
+GENE8612,GPX1,Vitamin D,No effect,Reduces,High,24.94,4.8,African American
+GENE9702,APOA1,Vitamin D,Downregulation,Neutral,Moderate,24.86,4.36,Asian
+GENE6198,SOD2,Selenium,Upregulation,Neutral,High,10.53,2.58,Asian
+GENE8251,GPX1,Omega-3,Upregulation,Enhances,High,59.28,6.86,African American
+GENE9270,TCF7L2,Omega-3,Downregulation,Enhances,High,98.04,9.74,African American
+GENE7991,APOA1,Vitamin D,Upregulation,Reduces,High,55.25,8.18,African American
+GENE9976,TCF7L2,Omega-3,Upregulation,Reduces,Variable,13.33,3.73,Asian
+GENE8305,TCF7L2,Vitamin D,Downregulation,Enhances,Moderate,73.79,7.33,General
+GENE3607,MTHFR,Omega-3,Upregulation,Neutral,High,62.45,0.18,Asian
+GENE8777,MTHFR,Zinc,Upregulation,Neutral,High,79.88,2.6,Caucasian
+GENE8373,TCF7L2,Selenium,No effect,Enhances,High,72.15,5.82,African American
+GENE5246,SOD2,Folate,Downregulation,Enhances,High,45.57,1.46,Asian
+GENE5050,MTHFR,Vitamin D,No effect,Neutral,Variable,85.54,4.61,African American
+GENE5543,MTHFR,Zinc,Downregulation,Neutral,Variable,29.67,6.93,General
+GENE9540,MTHFR,Zinc,Downregulation,Neutral,Moderate,59.64,3.57,Caucasian
+GENE8939,MTHFR,Selenium,Upregulation,Reduces,Variable,64.21,0.53,Asian
+GENE4919,APOA1,Selenium,Downregulation,Neutral,High,93.08,3.61,General
+GENE5499,TCF7L2,Vitamin D,No effect,Neutral,Variable,63.36,6.36,General
+GENE8206,APOA1,Vitamin D,Downregulation,Enhances,High,52.16,9.55,Caucasian
+GENE2269,GPX1,Zinc,Upregulation,Neutral,Moderate,74.27,0.49,Caucasian
+GENE5681,GPX1,Zinc,Downregulation,Neutral,Moderate,52.29,2.92,Caucasian
+GENE4841,GPX1,Selenium,Upregulation,Reduces,Variable,81.76,6.39,General
+GENE5451,APOA1,Vitamin D,Upregulation,Reduces,Moderate,88.95,0.77,Asian
+GENE6502,TCF7L2,Vitamin D,Downregulation,Reduces,Moderate,27.11,1.94,General
+GENE6238,GPX1,Zinc,Downregulation,Enhances,Variable,32.6,6.28,Asian
+GENE9849,MTHFR,Folate,Downregulation,Enhances,Moderate,23.39,7.65,General
+GENE2320,GPX1,Zinc,Upregulation,Reduces,Moderate,16.23,5.99,Caucasian
+GENE3267,SOD2,Folate,Upregulation,Reduces,High,49.16,1.67,African American
+GENE3471,MTHFR,Vitamin D,No effect,Neutral,Variable,80.69,3.23,General
+GENE4788,MTHFR,Zinc,No effect,Neutral,Moderate,75.06,3.16,General
+GENE7275,MTHFR,Selenium,No effect,Neutral,Moderate,24.7,8.45,African American
+GENE3503,GPX1,Omega-3,Upregulation,Reduces,High,63.45,8.0,General
+GENE4505,MTHFR,Vitamin D,No effect,Neutral,Variable,44.39,2.71,General
+GENE2052,SOD2,Vitamin D,Downregulation,Neutral,High,9.32,6.98,General
+GENE7797,APOA1,Zinc,Downregulation,Reduces,High,38.22,3.63,General
+GENE7678,SOD2,Omega-3,Downregulation,Neutral,Variable,81.57,5.34,General
+GENE6421,TCF7L2,Omega-3,No effect,Reduces,Moderate,25.17,3.52,Asian
+GENE9890,MTHFR,Omega-3,Downregulation,Enhances,Moderate,65.86,1.44,Asian
+GENE8633,SOD2,Zinc,Upregulation,Enhances,Variable,70.55,1.37,Asian
+GENE7812,GPX1,Zinc,Upregulation,Neutral,High,29.17,2.81,General
+GENE2020,TCF7L2,Folate,Downregulation,Enhances,Variable,11.44,7.79,General
+GENE4388,SOD2,Folate,Downregulation,Enhances,Moderate,33.53,4.12,Asian
+GENE7883,MTHFR,Folate,Upregulation,Reduces,Moderate,57.25,9.21,Caucasian
+GENE7381,GPX1,Selenium,Downregulation,Reduces,Variable,77.87,1.63,Asian
+GENE1320,MTHFR,Vitamin D,Upregulation,Neutral,High,15.81,2.18,General
+GENE7232,TCF7L2,Folate,No effect,Reduces,Moderate,36.66,5.03,General
+GENE8814,SOD2,Selenium,No effect,Neutral,High,42.62,8.32,Caucasian
+GENE1096,MTHFR,Selenium,Upregulation,Neutral,Variable,59.05,7.95,Asian
+GENE6763,TCF7L2,Zinc,No effect,Reduces,Variable,96.21,5.59,African American
+GENE5892,GPX1,Omega-3,No effect,Neutral,Moderate,84.04,6.9,Caucasian
+GENE7389,SOD2,Omega-3,Upregulation,Enhances,Moderate,23.43,9.52,General
+GENE7865,SOD2,Folate,Downregulation,Enhances,Variable,84.21,8.46,Caucasian
+GENE9818,TCF7L2,Vitamin D,No effect,Enhances,High,92.62,7.13,Caucasian
+GENE9947,SOD2,Vitamin D,Downregulation,Reduces,High,50.52,7.02,African American
+GENE4613,GPX1,Vitamin D,Downregulation,Enhances,Variable,50.08,8.03,African American
+GENE8999,GPX1,Selenium,No effect,Neutral,High,8.38,4.17,Caucasian
+GENE4595,SOD2,Selenium,Downregulation,Neutral,Moderate,17.9,9.16,Asian
+GENE5471,MTHFR,Selenium,Downregulation,Neutral,Variable,19.76,1.17,Caucasian
+GENE8140,MTHFR,Zinc,No effect,Reduces,High,48.76,1.31,African American
+GENE8956,GPX1,Selenium,No effect,Enhances,Moderate,87.2,0.17,African American
+GENE1475,MTHFR,Vitamin D,Downregulation,Reduces,Moderate,90.11,3.48,African American
+GENE7371,TCF7L2,Vitamin D,Downregulation,Neutral,Variable,48.93,6.91,African American
+GENE6507,APOA1,Omega-3,Downregulation,Enhances,Moderate,82.35,1.39,African American
+GENE7624,SOD2,Vitamin D,Upregulation,Enhances,High,93.14,4.42,General
+GENE3704,TCF7L2,Selenium,Upregulation,Enhances,Variable,10.32,9.88,Caucasian
+GENE8657,GPX1,Selenium,Downregulation,Reduces,Moderate,54.5,5.23,Asian
+GENE3091,APOA1,Folate,No effect,Enhances,High,58.67,9.7,Asian
+GENE9751,GPX1,Zinc,Upregulation,Reduces,Moderate,69.43,1.72,General
+GENE1441,APOA1,Vitamin D,Upregulation,Enhances,Moderate,57.74,3.05,Caucasian
+GENE7455,TCF7L2,Zinc,Downregulation,Neutral,Variable,6.78,7.44,African American
+GENE1444,APOA1,Vitamin D,Upregulation,Reduces,Moderate,59.85,1.19,African American
+GENE2375,MTHFR,Omega-3,Downregulation,Enhances,Moderate,36.51,1.29,Asian
+GENE8022,TCF7L2,Omega-3,No effect,Reduces,High,92.04,6.94,Asian
+GENE3223,SOD2,Zinc,Downregulation,Enhances,Moderate,80.6,6.88,General
+GENE8564,GPX1,Selenium,No effect,Neutral,Moderate,11.29,3.07,Caucasian
+GENE3977,MTHFR,Folate,Upregulation,Neutral,High,19.18,2.1,Caucasian
+GENE1823,SOD2,Vitamin D,Upregulation,Neutral,Moderate,84.87,9.81,African American
+GENE5262,APOA1,Vitamin D,Upregulation,Enhances,Variable,37.22,4.25,Caucasian
+GENE7211,MTHFR,Folate,Upregulation,Reduces,Moderate,40.65,7.63,Caucasian
+GENE6363,SOD2,Zinc,No effect,Reduces,Moderate,55.76,1.12,General
+GENE4467,TCF7L2,Zinc,Upregulation,Neutral,Moderate,20.77,0.19,General
+GENE8449,APOA1,Vitamin D,Downregulation,Neutral,Moderate,62.54,4.84,African American
+GENE6355,SOD2,Omega-3,No effect,Neutral,Moderate,22.8,4.31,General
+GENE6529,APOA1,Folate,No effect,Enhances,High,16.1,1.96,African American
+GENE7211,SOD2,Vitamin D,Upregulation,Reduces,Variable,79.32,0.33,General
+GENE5558,GPX1,Omega-3,Upregulation,Enhances,High,34.29,6.6,General
+GENE7906,TCF7L2,Zinc,No effect,Neutral,Variable,86.49,5.93,Asian
+GENE5133,MTHFR,Omega-3,Downregulation,Neutral,Variable,72.43,4.69,Asian
+GENE2341,SOD2,Selenium,Downregulation,Enhances,High,30.79,9.09,General
+GENE8705,APOA1,Vitamin D,Upregulation,Neutral,High,13.25,0.43,General
+GENE1317,TCF7L2,Folate,Upregulation,Reduces,Variable,88.32,3.02,General
+GENE9837,MTHFR,Omega-3,Upregulation,Neutral,Moderate,40.3,0.1,Asian
+GENE1853,APOA1,Zinc,No effect,Reduces,High,83.8,0.97,African American
+GENE6733,TCF7L2,Omega-3,Downregulation,Neutral,Variable,33.75,1.24,Caucasian
+GENE4673,APOA1,Zinc,No effect,Enhances,Moderate,54.88,6.02,General
+GENE2124,TCF7L2,Selenium,No effect,Neutral,Moderate,21.63,5.88,General
+GENE1659,MTHFR,Zinc,Downregulation,Neutral,High,40.55,2.0,Asian
+GENE1508,MTHFR,Folate,No effect,Enhances,High,8.55,6.71,General
+GENE5051,APOA1,Selenium,Upregulation,Neutral,Variable,24.2,0.29,African American
+GENE4266,TCF7L2,Omega-3,No effect,Enhances,High,13.8,1.46,Caucasian
+GENE1333,SOD2,Vitamin D,No effect,Enhances,Moderate,53.07,7.46,General
+GENE3496,MTHFR,Zinc,Downregulation,Reduces,High,80.91,2.77,African American
+GENE4908,SOD2,Folate,No effect,Neutral,High,90.97,5.8,Caucasian
+GENE3068,SOD2,Vitamin D,No effect,Neutral,Moderate,19.64,3.52,Asian
+GENE8758,GPX1,Vitamin D,Upregulation,Neutral,Moderate,37.31,8.55,Caucasian
+GENE2874,APOA1,Selenium,No effect,Reduces,High,50.93,7.81,African American
+GENE4571,APOA1,Omega-3,Upregulation,Neutral,Variable,88.02,6.13,Caucasian
+GENE8619,APOA1,Vitamin D,Downregulation,Reduces,Variable,34.48,5.05,Caucasian
+GENE5198,TCF7L2,Folate,No effect,Reduces,Variable,36.1,0.68,Asian
+GENE7043,MTHFR,Zinc,Downregulation,Neutral,Variable,78.1,8.2,Caucasian
+GENE3749,MTHFR,Zinc,Upregulation,Neutral,Moderate,14.33,7.63,Asian
+GENE2876,GPX1,Zinc,Downregulation,Enhances,Moderate,98.32,5.29,General
+GENE3683,GPX1,Selenium,Upregulation,Reduces,Moderate,54.03,7.16,Caucasian
+GENE6096,GPX1,Folate,Upregulation,Reduces,Moderate,99.31,9.64,Caucasian
+GENE2771,SOD2,Vitamin D,Upregulation,Reduces,Variable,24.49,1.72,Asian
+GENE1420,APOA1,Folate,Upregulation,Reduces,Variable,8.47,7.54,Caucasian
+GENE6111,TCF7L2,Selenium,No effect,Reduces,High,41.82,0.04,African American
+GENE7149,MTHFR,Selenium,Upregulation,Enhances,Moderate,87.16,7.25,Asian
+GENE7498,TCF7L2,Omega-3,Upregulation,Enhances,High,16.0,9.24,Asian
+GENE4249,APOA1,Folate,No effect,Reduces,Variable,34.54,9.2,General
+GENE2245,APOA1,Zinc,Downregulation,Neutral,High,9.18,8.51,Caucasian
+GENE4978,MTHFR,Selenium,Upregulation,Neutral,High,85.57,4.75,African American
+GENE2669,SOD2,Selenium,Downregulation,Neutral,High,87.83,6.98,General
+GENE5941,GPX1,Omega-3,No effect,Neutral,Moderate,36.66,1.85,Caucasian
+GENE2983,SOD2,Zinc,Upregulation,Reduces,Moderate,89.47,6.74,General
+GENE1672,APOA1,Selenium,Upregulation,Neutral,Variable,14.79,1.07,Caucasian
+GENE6688,APOA1,Vitamin D,Downregulation,Neutral,High,77.79,8.35,African American
+GENE9728,SOD2,Zinc,No effect,Reduces,Moderate,75.83,9.81,General
+GENE8018,GPX1,Folate,Upregulation,Neutral,Variable,7.14,4.24,Asian
+GENE7071,GPX1,Omega-3,Downregulation,Neutral,Moderate,77.06,5.14,General
+GENE2129,APOA1,Vitamin D,Upregulation,Neutral,Moderate,65.69,4.08,Caucasian
+GENE9289,GPX1,Vitamin D,Upregulation,Neutral,Moderate,24.94,7.61,African American
+GENE6590,GPX1,Folate,Upregulation,Enhances,Moderate,24.05,3.14,General
+GENE1207,MTHFR,Omega-3,No effect,Enhances,Variable,32.22,4.66,African American
+GENE7882,MTHFR,Selenium,No effect,Enhances,Variable,55.57,5.2,Caucasian
+GENE9031,TCF7L2,Omega-3,Upregulation,Neutral,Moderate,78.41,4.96,Caucasian
+GENE2729,SOD2,Selenium,Upregulation,Neutral,Moderate,68.76,3.61,Caucasian
+GENE8102,APOA1,Folate,No effect,Reduces,High,30.9,2.88,Asian
+GENE6934,GPX1,Folate,Downregulation,Neutral,Moderate,19.96,7.22,African American
+GENE8532,TCF7L2,Vitamin D,Upregulation,Reduces,High,15.87,0.82,Asian
+GENE3506,MTHFR,Vitamin D,Downregulation,Neutral,Moderate,96.04,4.94,Asian
+GENE8135,GPX1,Vitamin D,No effect,Enhances,Variable,58.16,3.85,African American
+GENE3885,SOD2,Folate,No effect,Neutral,Variable,14.73,4.57,Caucasian
+GENE9548,MTHFR,Selenium,Downregulation,Neutral,High,56.54,7.36,Asian
+GENE5425,APOA1,Folate,No effect,Enhances,Variable,57.19,6.87,African American
+GENE9817,GPX1,Folate,Upregulation,Neutral,Variable,30.75,8.41,General
+GENE8921,TCF7L2,Vitamin D,Downregulation,Neutral,Variable,94.61,2.26,Asian
+GENE8616,APOA1,Omega-3,Downregulation,Neutral,Variable,81.38,4.07,Caucasian
+GENE8136,GPX1,Vitamin D,Downregulation,Neutral,Variable,59.54,9.85,African American
+GENE5397,GPX1,Omega-3,Upregulation,Reduces,High,21.27,4.28,Asian
+GENE6280,GPX1,Selenium,Upregulation,Neutral,Moderate,34.58,8.57,Caucasian
+GENE5022,GPX1,Selenium,No effect,Enhances,Moderate,89.76,8.95,Caucasian
+GENE2419,GPX1,Zinc,Downregulation,Reduces,Moderate,56.35,8.02,African American
+GENE5569,APOA1,Zinc,No effect,Neutral,Variable,9.82,9.39,General
+GENE8385,SOD2,Zinc,Downregulation,Reduces,Variable,7.75,3.67,Caucasian
+GENE4995,SOD2,Selenium,No effect,Neutral,Moderate,90.81,0.13,African American
+GENE8613,APOA1,Vitamin D,Downregulation,Neutral,Variable,9.79,6.74,Asian
+GENE7209,SOD2,Vitamin D,Upregulation,Neutral,Moderate,41.44,6.72,General
+GENE6511,TCF7L2,Vitamin D,No effect,Neutral,High,13.18,3.96,African American
+GENE1470,TCF7L2,Folate,No effect,Reduces,Moderate,42.23,5.23,African American
+GENE9098,APOA1,Zinc,No effect,Neutral,Variable,71.94,6.77,General
+GENE6325,TCF7L2,Vitamin D,No effect,Neutral,Moderate,89.67,1.19,Caucasian
+GENE3979,APOA1,Zinc,Downregulation,Neutral,Moderate,64.8,3.95,Caucasian
+GENE8988,TCF7L2,Zinc,Upregulation,Reduces,Variable,70.56,6.95,Asian
+GENE4475,MTHFR,Folate,No effect,Reduces,High,47.35,9.78,Asian
+GENE6813,APOA1,Selenium,No effect,Enhances,High,38.78,7.41,Asian
+GENE5232,GPX1,Vitamin D,Upregulation,Neutral,Variable,36.57,8.92,General
+GENE6576,TCF7L2,Folate,Downregulation,Enhances,Moderate,23.82,1.69,General
+GENE5581,MTHFR,Selenium,Downregulation,Enhances,Moderate,77.05,3.64,Caucasian
+GENE5526,APOA1,Selenium,No effect,Reduces,Variable,81.88,1.99,African American
+GENE1166,TCF7L2,Vitamin D,No effect,Enhances,Variable,12.46,2.0,Caucasian
+GENE9464,GPX1,Zinc,Downregulation,Enhances,Variable,92.66,8.44,African American
+GENE4130,TCF7L2,Omega-3,Upregulation,Neutral,Moderate,77.62,4.04,General
+GENE2402,MTHFR,Zinc,Upregulation,Enhances,High,58.94,2.33,General
+GENE4954,SOD2,Zinc,No effect,Enhances,High,13.83,4.25,Caucasian
+GENE7658,SOD2,Omega-3,Upregulation,Reduces,High,81.22,4.99,General
+GENE9004,MTHFR,Selenium,No effect,Enhances,Moderate,71.37,7.65,Caucasian
+GENE4937,MTHFR,Omega-3,No effect,Reduces,High,14.24,7.66,General
+GENE8800,APOA1,Omega-3,Downregulation,Neutral,Moderate,34.49,5.94,Asian
+GENE9041,SOD2,Folate,No effect,Reduces,Moderate,66.22,7.56,Caucasian
+GENE8342,APOA1,Folate,Upregulation,Enhances,Variable,77.82,8.01,African American
+GENE1282,TCF7L2,Folate,Upregulation,Enhances,Moderate,49.7,9.43,Caucasian
+GENE2524,MTHFR,Selenium,No effect,Neutral,Variable,95.01,3.56,Asian
+GENE5820,APOA1,Omega-3,Downregulation,Reduces,Moderate,18.65,6.67,Asian
+GENE4630,MTHFR,Vitamin D,No effect,Enhances,Variable,90.09,9.5,African American
+GENE7625,APOA1,Omega-3,Upregulation,Neutral,Variable,29.52,9.88,General
+GENE4986,TCF7L2,Selenium,No effect,Enhances,Moderate,39.53,5.11,General
+GENE6016,TCF7L2,Folate,No effect,Reduces,Moderate,22.42,1.47,Caucasian
+GENE7046,GPX1,Selenium,Upregulation,Reduces,Moderate,92.14,4.55,Asian
+GENE8753,SOD2,Folate,Downregulation,Enhances,Moderate,36.38,1.22,Asian
+GENE9698,GPX1,Selenium,Upregulation,Neutral,Variable,86.78,4.89,African American
+GENE6632,SOD2,Vitamin D,Downregulation,Neutral,Variable,35.85,2.31,Asian
+GENE7971,TCF7L2,Folate,No effect,Neutral,Variable,51.31,9.42,Asian
+GENE6419,APOA1,Folate,Upregulation,Neutral,Moderate,11.21,0.3,General
+GENE6764,MTHFR,Omega-3,Upregulation,Enhances,Moderate,15.72,7.38,General
+GENE8434,TCF7L2,Selenium,Downregulation,Neutral,High,50.47,8.3,Caucasian
+GENE5438,TCF7L2,Zinc,Downregulation,Neutral,High,85.35,4.98,Caucasian
+GENE6023,APOA1,Zinc,Upregulation,Neutral,High,31.81,0.27,General
+GENE5118,TCF7L2,Omega-3,No effect,Reduces,High,38.12,1.79,African American
+GENE4777,TCF7L2,Selenium,Upregulation,Enhances,Variable,59.59,6.05,Asian
+GENE2976,APOA1,Vitamin D,No effect,Neutral,High,53.26,3.27,Caucasian
+GENE4155,TCF7L2,Omega-3,No effect,Neutral,Variable,43.54,3.03,Caucasian
+GENE6169,SOD2,Folate,No effect,Reduces,Moderate,72.86,6.23,General
+GENE2958,SOD2,Vitamin D,No effect,Neutral,Variable,15.16,7.6,African American
+GENE9779,SOD2,Selenium,Downregulation,Neutral,Variable,57.83,6.61,African American
+GENE4033,SOD2,Folate,Downregulation,Enhances,Variable,11.74,5.2,General
+GENE4138,TCF7L2,Zinc,Upregulation,Reduces,High,33.7,4.92,African American
+GENE4545,MTHFR,Selenium,Downregulation,Reduces,High,48.79,4.66,Asian
+GENE8933,SOD2,Folate,Upregulation,Reduces,High,61.1,2.94,African American
+GENE5530,SOD2,Selenium,Upregulation,Neutral,Moderate,27.66,4.98,Caucasian
+GENE9595,TCF7L2,Folate,No effect,Reduces,High,28.15,5.05,Asian
+GENE5636,GPX1,Selenium,Upregulation,Neutral,High,20.11,5.42,Caucasian
+GENE2647,TCF7L2,Zinc,Downregulation,Enhances,High,50.83,8.09,African American
+GENE4180,APOA1,Omega-3,Downregulation,Enhances,Moderate,11.28,5.41,Caucasian
+GENE5853,SOD2,Folate,Upregulation,Neutral,Variable,24.78,0.18,General
+GENE4727,APOA1,Folate,No effect,Reduces,High,70.94,7.64,Caucasian
+GENE6912,SOD2,Zinc,Upregulation,Enhances,High,45.96,9.91,Asian
+GENE3939,GPX1,Omega-3,Upregulation,Neutral,Moderate,98.12,8.8,African American
+GENE5952,MTHFR,Selenium,Downregulation,Reduces,Variable,58.89,1.19,General
+GENE1231,GPX1,Folate,Downregulation,Enhances,High,37.51,4.5,Asian
+GENE9751,TCF7L2,Omega-3,No effect,Neutral,High,70.94,8.53,African American
+GENE3073,TCF7L2,Selenium,Downregulation,Neutral,Moderate,21.44,4.43,African American
+GENE5494,APOA1,Folate,Upregulation,Neutral,Variable,68.61,0.36,African American
+GENE1745,APOA1,Folate,Downregulation,Neutral,High,75.24,1.77,General
+GENE1893,TCF7L2,Selenium,Downregulation,Reduces,High,72.63,6.59,African American
+GENE5786,TCF7L2,Zinc,Downregulation,Neutral,Variable,84.49,7.79,Asian
+GENE3068,TCF7L2,Omega-3,Downregulation,Neutral,Moderate,15.86,8.85,African American
+GENE9042,SOD2,Folate,No effect,Neutral,Moderate,61.63,1.64,African American
+GENE2680,GPX1,Selenium,Downregulation,Neutral,High,35.91,4.31,Asian
+GENE1200,SOD2,Folate,Upregulation,Enhances,High,14.28,3.12,General
+GENE5658,MTHFR,Selenium,Downregulation,Neutral,Variable,47.3,3.89,African American
+GENE8690,SOD2,Folate,No effect,Enhances,Moderate,34.26,7.64,Caucasian
+GENE8843,TCF7L2,Vitamin D,No effect,Reduces,Moderate,43.55,5.69,Asian
+GENE8216,SOD2,Zinc,No effect,Reduces,Variable,61.83,4.91,Caucasian
+GENE6582,APOA1,Omega-3,Upregulation,Enhances,High,70.12,5.54,General
+GENE4020,TCF7L2,Zinc,Upregulation,Neutral,High,61.66,5.39,Caucasian
+GENE1841,GPX1,Zinc,Downregulation,Enhances,Variable,82.89,4.7,Caucasian
+GENE5136,SOD2,Omega-3,Upregulation,Enhances,High,36.1,5.62,Asian
+GENE8827,TCF7L2,Zinc,Upregulation,Enhances,High,66.27,1.56,General
+GENE2869,APOA1,Vitamin D,Downregulation,Neutral,High,10.84,0.56,General
+GENE2070,APOA1,Selenium,Upregulation,Neutral,Variable,25.67,2.63,General
+GENE7565,SOD2,Omega-3,Downregulation,Enhances,Moderate,18.2,5.91,Caucasian
+GENE9056,TCF7L2,Selenium,Downregulation,Reduces,Moderate,60.17,3.78,Caucasian
+GENE2213,GPX1,Folate,Upregulation,Enhances,Moderate,76.72,6.76,Caucasian
+GENE1878,MTHFR,Vitamin D,Upregulation,Reduces,Moderate,81.93,7.66,General
+GENE3485,APOA1,Selenium,Downregulation,Reduces,Variable,76.92,2.84,Caucasian
+GENE3444,MTHFR,Selenium,Upregulation,Neutral,Moderate,67.78,0.61,African American
+GENE5978,GPX1,Omega-3,Downregulation,Reduces,Variable,48.03,5.9,General
+GENE2395,SOD2,Folate,Upregulation,Enhances,Moderate,32.69,1.28,African American
+GENE5066,APOA1,Omega-3,No effect,Enhances,High,63.48,3.66,General
+GENE2940,MTHFR,Folate,Upregulation,Neutral,Variable,47.48,8.1,Asian
+GENE7818,APOA1,Omega-3,No effect,Reduces,Variable,24.54,5.84,Caucasian
+GENE4697,MTHFR,Selenium,Upregulation,Enhances,High,88.36,7.65,Caucasian
+GENE9561,TCF7L2,Selenium,Downregulation,Reduces,Variable,33.47,6.25,General
+GENE7232,TCF7L2,Vitamin D,No effect,Reduces,Variable,80.46,3.81,African American
+GENE8381,SOD2,Selenium,No effect,Neutral,Moderate,69.56,4.28,Asian
+GENE8253,GPX1,Zinc,Downregulation,Enhances,Variable,92.26,9.92,General
+GENE5871,APOA1,Selenium,No effect,Enhances,Variable,93.98,4.12,Caucasian
+GENE8025,GPX1,Zinc,Upregulation,Enhances,Variable,73.19,0.56,Asian
+GENE6003,MTHFR,Selenium,Downregulation,Reduces,Variable,91.94,2.44,Caucasian
+GENE1986,SOD2,Zinc,No effect,Neutral,Moderate,99.08,2.35,African American
+GENE2625,TCF7L2,Zinc,Upregulation,Enhances,Variable,60.36,3.12,African American
+GENE4404,TCF7L2,Selenium,No effect,Neutral,Variable,63.09,0.85,Asian
+GENE4457,SOD2,Zinc,Downregulation,Neutral,Variable,53.49,6.88,Caucasian
+GENE5335,APOA1,Vitamin D,Upregulation,Neutral,Variable,85.53,8.69,African American
+GENE2330,GPX1,Folate,Upregulation,Reduces,Moderate,85.99,1.14,Asian
+GENE3573,MTHFR,Zinc,Upregulation,Reduces,Moderate,10.93,1.7,Asian
+GENE4929,GPX1,Zinc,Downregulation,Neutral,Moderate,90.6,5.38,General
+GENE3847,TCF7L2,Vitamin D,Upregulation,Neutral,Variable,96.95,0.37,African American
+GENE2229,SOD2,Vitamin D,Upregulation,Reduces,High,5.08,6.58,Caucasian
+GENE3564,TCF7L2,Omega-3,Downregulation,Enhances,High,58.2,4.22,African American
+GENE1043,TCF7L2,Folate,No effect,Neutral,Moderate,97.98,5.15,General
+GENE7693,MTHFR,Omega-3,No effect,Reduces,Moderate,15.42,4.21,Asian
+GENE8381,APOA1,Zinc,No effect,Neutral,Moderate,31.81,0.2,Caucasian
+GENE8699,APOA1,Vitamin D,No effect,Enhances,Moderate,7.96,4.7,Asian
+GENE5771,MTHFR,Zinc,No effect,Enhances,Moderate,46.01,0.22,General
+GENE1534,SOD2,Selenium,Downregulation,Neutral,High,61.07,3.17,Caucasian
+GENE4792,GPX1,Folate,No effect,Enhances,Moderate,64.4,5.7,African American
+GENE5720,SOD2,Selenium,Downregulation,Neutral,High,72.62,3.22,General
+GENE5632,GPX1,Vitamin D,Downregulation,Enhances,High,43.57,0.98,Asian
+GENE8438,APOA1,Vitamin D,Upregulation,Reduces,Variable,46.34,4.88,Asian
+GENE2166,TCF7L2,Vitamin D,Upregulation,Neutral,High,25.07,6.91,Asian
+GENE4824,TCF7L2,Folate,Upregulation,Neutral,Moderate,21.47,2.06,Caucasian
+GENE5334,SOD2,Omega-3,Downregulation,Reduces,Moderate,18.21,4.97,Asian
+GENE4241,MTHFR,Zinc,No effect,Enhances,Moderate,57.77,8.11,Caucasian
+GENE7965,GPX1,Zinc,No effect,Reduces,Variable,85.12,6.67,Asian
+GENE2880,TCF7L2,Zinc,Downregulation,Enhances,High,39.23,1.67,African American
+GENE9922,SOD2,Zinc,Upregulation,Enhances,Variable,44.64,3.0,Asian
+GENE4683,MTHFR,Zinc,Upregulation,Neutral,Moderate,32.4,9.69,African American
+GENE3441,APOA1,Omega-3,Downregulation,Reduces,Moderate,87.91,2.02,Asian
+GENE5352,MTHFR,Selenium,Upregulation,Reduces,Moderate,16.93,6.35,Caucasian
+GENE3330,APOA1,Folate,Downregulation,Reduces,High,6.1,9.74,African American
+GENE2169,SOD2,Selenium,Upregulation,Reduces,Moderate,66.6,0.75,General
+GENE1977,MTHFR,Selenium,Downregulation,Enhances,Moderate,18.68,8.5,Caucasian
+GENE3718,SOD2,Zinc,No effect,Neutral,Variable,89.06,2.14,General
+GENE6039,APOA1,Zinc,No effect,Neutral,High,67.5,2.65,Caucasian
+GENE5728,TCF7L2,Omega-3,No effect,Reduces,High,97.62,2.97,African American
+GENE8195,TCF7L2,Folate,Downregulation,Neutral,Variable,17.9,5.74,General
+GENE3037,APOA1,Vitamin D,Upregulation,Neutral,Moderate,18.04,8.05,General
+GENE8679,GPX1,Selenium,Upregulation,Enhances,High,81.56,6.25,African American
+GENE5982,GPX1,Vitamin D,Upregulation,Enhances,Moderate,86.71,9.58,Caucasian
+GENE7594,TCF7L2,Folate,Upregulation,Neutral,Variable,89.89,7.18,General
+GENE5460,TCF7L2,Selenium,Upregulation,Reduces,Moderate,71.06,5.78,General
+GENE9199,MTHFR,Vitamin D,No effect,Reduces,Moderate,93.38,5.92,African American
+GENE9847,MTHFR,Vitamin D,Downregulation,Enhances,High,64.21,2.73,Caucasian
+GENE9090,TCF7L2,Omega-3,Upregulation,Neutral,High,48.17,5.66,Asian
+GENE8172,GPX1,Folate,Downregulation,Neutral,Variable,45.29,5.31,Caucasian
+GENE2317,MTHFR,Folate,Upregulation,Neutral,Variable,82.91,4.27,African American
+GENE1653,APOA1,Folate,Downregulation,Enhances,Variable,41.55,3.47,General
+GENE8078,MTHFR,Selenium,Downregulation,Enhances,Moderate,26.45,0.77,General
+GENE6280,MTHFR,Omega-3,Downregulation,Neutral,Moderate,45.35,8.24,African American
+GENE5102,MTHFR,Zinc,Downregulation,Reduces,High,5.71,5.05,Caucasian
+GENE1423,SOD2,Selenium,No effect,Reduces,Moderate,52.32,3.0,General
+GENE2496,APOA1,Folate,Downregulation,Enhances,High,74.44,6.63,Asian
+GENE4750,TCF7L2,Selenium,Upregulation,Reduces,Moderate,72.65,3.13,African American
+GENE1339,GPX1,Vitamin D,No effect,Reduces,Variable,30.58,4.14,Caucasian
+GENE5415,GPX1,Selenium,No effect,Neutral,High,93.02,2.51,Caucasian
+GENE1659,TCF7L2,Selenium,Downregulation,Neutral,Variable,59.75,5.15,Asian
+GENE3870,SOD2,Folate,Upregulation,Reduces,Variable,8.18,6.72,General
+GENE8708,GPX1,Vitamin D,Downregulation,Enhances,Variable,8.6,5.48,Caucasian
+GENE9502,MTHFR,Folate,Downregulation,Neutral,Variable,50.91,8.81,Asian
+GENE8245,GPX1,Vitamin D,Downregulation,Reduces,Moderate,40.01,6.28,Asian
+GENE5557,APOA1,Vitamin D,Upregulation,Neutral,Moderate,60.13,5.16,Asian
+GENE3973,APOA1,Vitamin D,Downregulation,Neutral,Variable,96.37,1.87,African American
+GENE8141,TCF7L2,Folate,Upregulation,Reduces,Variable,12.61,4.99,African American
+GENE9056,SOD2,Vitamin D,Downregulation,Reduces,Variable,74.37,6.61,Caucasian
+GENE2494,SOD2,Omega-3,Downregulation,Enhances,Moderate,55.01,8.24,Caucasian
+GENE8700,GPX1,Omega-3,Downregulation,Reduces,Moderate,86.64,9.38,Caucasian
+GENE6700,SOD2,Zinc,Downregulation,Neutral,High,76.31,2.68,General
+GENE7690,SOD2,Omega-3,Upregulation,Enhances,High,31.54,6.38,General
+GENE6460,GPX1,Zinc,Downregulation,Reduces,High,54.11,8.09,Caucasian
+GENE6260,APOA1,Omega-3,No effect,Neutral,High,54.72,8.53,African American
+GENE2713,MTHFR,Folate,Upregulation,Enhances,Moderate,62.96,9.07,African American
+GENE3634,TCF7L2,Zinc,Upregulation,Enhances,High,28.3,9.35,Asian
+GENE6403,APOA1,Selenium,No effect,Enhances,Variable,64.91,7.27,Caucasian
+GENE7744,SOD2,Selenium,No effect,Neutral,Moderate,68.06,0.6,General
+GENE9117,SOD2,Omega-3,Upregulation,Neutral,Variable,68.53,2.01,Asian
+GENE5722,GPX1,Selenium,Upregulation,Enhances,Moderate,69.99,4.62,African American
+GENE7561,TCF7L2,Omega-3,No effect,Neutral,Moderate,56.22,2.4,Caucasian
+GENE1601,MTHFR,Omega-3,Downregulation,Enhances,Variable,60.06,7.46,African American
+GENE8451,GPX1,Selenium,No effect,Enhances,Variable,63.24,7.66,Asian
+GENE2442,GPX1,Selenium,Downregulation,Neutral,Moderate,90.84,8.44,Caucasian
+GENE6153,MTHFR,Vitamin D,No effect,Neutral,High,55.83,4.1,General
+GENE5135,MTHFR,Zinc,Upregulation,Enhances,Moderate,6.02,8.6,Caucasian
+GENE6296,SOD2,Omega-3,No effect,Neutral,High,48.13,9.11,General
+GENE2899,GPX1,Selenium,Upregulation,Reduces,High,91.08,6.34,Caucasian
+GENE7622,APOA1,Zinc,Downregulation,Enhances,High,59.53,8.46,Caucasian
+GENE9431,APOA1,Selenium,No effect,Enhances,Variable,36.49,2.67,Caucasian
+GENE1018,GPX1,Selenium,Downregulation,Neutral,High,38.53,2.87,Caucasian
+GENE9889,MTHFR,Vitamin D,No effect,Neutral,High,97.89,1.61,General
+GENE8569,TCF7L2,Omega-3,No effect,Neutral,High,32.99,6.87,African American
+GENE7770,MTHFR,Omega-3,Downregulation,Reduces,Moderate,20.91,2.36,Caucasian
+GENE1888,MTHFR,Folate,No effect,Neutral,Moderate,71.03,2.38,Asian
+GENE4073,TCF7L2,Vitamin D,Upregulation,Enhances,High,61.78,1.5,Caucasian
+GENE9494,MTHFR,Zinc,Downregulation,Neutral,Variable,33.89,0.28,General
+GENE6927,TCF7L2,Vitamin D,Downregulation,Neutral,Moderate,79.58,7.97,Caucasian
+GENE9167,GPX1,Zinc,Upregulation,Enhances,Variable,29.74,3.11,African American
+GENE8242,TCF7L2,Omega-3,Downregulation,Enhances,High,64.78,4.85,General
+GENE1845,APOA1,Folate,No effect,Reduces,High,59.92,9.91,Caucasian
+GENE4335,TCF7L2,Folate,Upregulation,Neutral,High,59.42,4.22,Caucasian
+GENE5375,MTHFR,Omega-3,No effect,Reduces,High,67.35,9.06,Caucasian
+GENE9998,GPX1,Selenium,No effect,Enhances,High,32.72,2.02,Caucasian
+GENE3146,TCF7L2,Vitamin D,No effect,Enhances,Moderate,75.05,2.73,African American
+GENE5719,MTHFR,Folate,No effect,Enhances,High,7.59,0.29,General
+GENE8178,TCF7L2,Selenium,No effect,Enhances,Moderate,51.05,7.9,General
+GENE8941,GPX1,Zinc,No effect,Enhances,Moderate,17.05,2.78,Caucasian
+GENE2989,GPX1,Folate,Upregulation,Reduces,Moderate,12.3,5.51,General
+GENE1472,APOA1,Zinc,Upregulation,Neutral,Moderate,79.46,6.44,Asian
+GENE4920,GPX1,Selenium,Downregulation,Enhances,Moderate,28.94,0.42,Caucasian
+GENE3594,MTHFR,Zinc,Upregulation,Neutral,Moderate,63.5,7.22,General
+GENE6091,GPX1,Selenium,Upregulation,Enhances,Variable,31.15,7.82,General
+GENE1224,GPX1,Zinc,Upregulation,Reduces,High,29.41,0.55,General
+GENE7684,MTHFR,Vitamin D,Upregulation,Reduces,Moderate,75.44,8.97,General
+GENE2527,MTHFR,Folate,Upregulation,Reduces,High,62.36,3.14,Caucasian
+GENE4681,GPX1,Folate,Upregulation,Reduces,High,91.46,2.98,African American
+GENE2858,GPX1,Selenium,Downregulation,Neutral,High,75.2,0.64,Caucasian
+GENE8560,TCF7L2,Zinc,Upregulation,Reduces,Moderate,67.62,9.55,General
+GENE2924,GPX1,Omega-3,No effect,Reduces,Moderate,40.13,8.97,African American
+GENE3522,APOA1,Folate,Downregulation,Reduces,High,21.66,6.72,Asian
+GENE9165,APOA1,Zinc,Upregulation,Enhances,Variable,79.34,8.86,Caucasian
+GENE5781,APOA1,Zinc,No effect,Reduces,Moderate,27.44,3.97,Caucasian
+GENE9337,APOA1,Vitamin D,Upregulation,Neutral,High,22.18,8.4,Caucasian
+GENE5479,GPX1,Omega-3,No effect,Enhances,High,55.1,8.43,Caucasian
+GENE7807,TCF7L2,Folate,Downregulation,Neutral,Moderate,8.14,2.36,Asian
+GENE8905,MTHFR,Vitamin D,Downregulation,Enhances,Moderate,98.49,5.71,Asian
+GENE8736,GPX1,Omega-3,No effect,Neutral,High,96.9,5.0,African American
+GENE4993,SOD2,Folate,Upregulation,Neutral,High,61.58,1.21,African American
+GENE8483,GPX1,Vitamin D,Upregulation,Neutral,Variable,83.06,6.64,General
+GENE3369,APOA1,Omega-3,Downregulation,Enhances,High,84.57,5.8,General
+GENE7284,SOD2,Folate,No effect,Neutral,Moderate,76.51,7.75,General
+GENE4122,GPX1,Omega-3,Downregulation,Neutral,Moderate,44.23,5.25,Asian
+GENE9327,TCF7L2,Zinc,No effect,Enhances,High,41.4,4.96,Asian
+GENE3236,TCF7L2,Selenium,Downregulation,Neutral,Variable,67.76,0.9,Asian
+GENE2143,SOD2,Selenium,Downregulation,Enhances,High,73.97,6.0,Caucasian
+GENE5526,MTHFR,Zinc,No effect,Reduces,High,20.89,7.73,Caucasian
+GENE7798,SOD2,Omega-3,Downregulation,Neutral,Moderate,59.89,3.13,Asian
+GENE6568,TCF7L2,Zinc,Upregulation,Enhances,Variable,84.97,8.32,African American
+GENE9318,SOD2,Selenium,No effect,Reduces,High,10.16,7.37,General
+GENE5377,APOA1,Selenium,No effect,Neutral,Variable,30.12,8.06,African American
+GENE1042,APOA1,Omega-3,No effect,Reduces,Variable,82.86,7.44,African American
+GENE5634,MTHFR,Selenium,No effect,Neutral,High,9.99,9.36,Asian
+GENE5891,SOD2,Zinc,Downregulation,Enhances,Moderate,49.08,2.18,Asian
+GENE9022,SOD2,Omega-3,Upregulation,Reduces,Moderate,50.24,1.07,General
+GENE3434,SOD2,Zinc,Downregulation,Reduces,Variable,50.25,2.14,African American
+GENE8316,SOD2,Omega-3,Upregulation,Reduces,Moderate,95.08,2.75,African American
+GENE9824,MTHFR,Selenium,Upregulation,Reduces,Moderate,92.63,4.08,African American
+GENE8935,TCF7L2,Folate,No effect,Neutral,High,27.2,8.63,African American
+GENE6654,GPX1,Omega-3,No effect,Enhances,Variable,69.93,0.56,Caucasian
+GENE6446,MTHFR,Omega-3,No effect,Reduces,Variable,42.06,5.33,Asian
+GENE9903,TCF7L2,Folate,Upregulation,Enhances,High,29.95,7.0,Caucasian
+GENE7180,TCF7L2,Selenium,Upregulation,Neutral,Variable,55.39,1.13,Asian
+GENE8460,TCF7L2,Zinc,No effect,Enhances,Variable,46.3,5.46,Caucasian
+GENE6272,SOD2,Vitamin D,Upregulation,Enhances,Variable,32.44,4.75,General
+GENE4090,MTHFR,Folate,Downregulation,Neutral,High,80.74,2.46,African American
+GENE4912,TCF7L2,Vitamin D,No effect,Reduces,Moderate,41.29,2.78,Asian
+GENE7274,GPX1,Selenium,Downregulation,Neutral,Moderate,34.99,7.84,Asian
+GENE4826,GPX1,Omega-3,Downregulation,Reduces,Variable,55.37,1.45,Asian
+GENE7730,APOA1,Omega-3,Downregulation,Neutral,Moderate,95.81,4.75,Caucasian
+GENE1715,TCF7L2,Selenium,Downregulation,Enhances,High,14.25,3.68,African American
+GENE6213,MTHFR,Zinc,No effect,Reduces,Moderate,55.47,3.08,Asian
+GENE8749,SOD2,Zinc,Downregulation,Neutral,High,38.61,6.45,General
+GENE7246,APOA1,Selenium,No effect,Neutral,Variable,85.2,9.05,General
+GENE7325,TCF7L2,Selenium,No effect,Neutral,High,63.0,0.35,African American
+GENE3492,SOD2,Selenium,Downregulation,Reduces,High,66.95,7.39,African American
+GENE9115,MTHFR,Selenium,Upregulation,Enhances,High,30.9,7.99,African American
+GENE1606,MTHFR,Selenium,Upregulation,Neutral,Variable,30.68,0.55,General
+GENE3068,APOA1,Selenium,Downregulation,Neutral,Moderate,81.22,9.17,African American
+GENE9229,APOA1,Omega-3,Downregulation,Enhances,Moderate,29.26,6.72,Asian
+GENE6439,TCF7L2,Vitamin D,Upregulation,Enhances,High,60.5,2.53,Caucasian
+GENE2644,SOD2,Zinc,No effect,Enhances,High,48.81,3.85,General
+GENE8213,GPX1,Vitamin D,No effect,Enhances,Moderate,69.15,6.39,Caucasian
+GENE2633,SOD2,Omega-3,No effect,Neutral,Variable,27.97,7.01,General
+GENE9617,MTHFR,Folate,No effect,Neutral,High,68.83,9.03,Asian
+GENE8486,MTHFR,Vitamin D,Downregulation,Reduces,Moderate,78.2,6.85,Caucasian
+GENE1251,TCF7L2,Folate,Upregulation,Neutral,High,54.4,5.35,Asian
+GENE3361,GPX1,Omega-3,Downregulation,Neutral,High,69.38,2.36,Asian
+GENE7717,TCF7L2,Zinc,Downregulation,Enhances,High,99.36,4.42,General
+GENE3529,MTHFR,Folate,No effect,Reduces,Variable,34.76,0.08,Asian
+GENE2225,MTHFR,Omega-3,Upregulation,Enhances,Variable,6.0,9.61,Asian
+GENE8692,SOD2,Selenium,Upregulation,Neutral,Moderate,5.81,9.28,General
+GENE5342,GPX1,Zinc,No effect,Neutral,Variable,11.46,9.18,African American
+GENE6546,SOD2,Selenium,Downregulation,Neutral,Variable,44.07,3.01,General
+GENE7512,SOD2,Zinc,Downregulation,Reduces,High,54.9,9.36,Asian
+GENE2315,TCF7L2,Zinc,Downregulation,Enhances,Moderate,70.12,7.57,General
+GENE6383,SOD2,Vitamin D,Upregulation,Reduces,High,38.39,2.97,Asian
+GENE9742,APOA1,Zinc,Downregulation,Neutral,High,73.9,8.59,Caucasian
+GENE7226,APOA1,Vitamin D,Downregulation,Neutral,High,28.93,1.6,African American
+GENE6188,SOD2,Folate,Downregulation,Enhances,Moderate,8.23,4.39,Caucasian
+GENE8994,GPX1,Zinc,Downregulation,Enhances,High,63.84,3.17,Caucasian
+GENE9864,SOD2,Folate,Downregulation,Enhances,Variable,10.4,8.12,African American
+GENE1588,MTHFR,Zinc,No effect,Enhances,Variable,61.44,6.44,Caucasian
+GENE2121,MTHFR,Vitamin D,No effect,Neutral,Moderate,89.93,7.89,Caucasian
+GENE4846,GPX1,Selenium,Upregulation,Reduces,Variable,25.6,2.74,Asian
+GENE5708,TCF7L2,Zinc,Upregulation,Enhances,High,61.94,0.8,African American
+GENE4727,APOA1,Omega-3,Upregulation,Enhances,High,16.57,7.79,General
+GENE2480,APOA1,Selenium,Downregulation,Enhances,Moderate,95.99,4.92,Asian
+GENE8110,TCF7L2,Vitamin D,No effect,Neutral,Variable,13.21,7.37,African American
+GENE2612,SOD2,Omega-3,Downregulation,Neutral,High,62.45,9.26,Caucasian
+GENE2646,GPX1,Folate,Downregulation,Enhances,Variable,40.72,3.33,Caucasian
+GENE8269,SOD2,Vitamin D,Downregulation,Neutral,Variable,77.57,4.22,Asian
+GENE3725,TCF7L2,Selenium,No effect,Reduces,High,66.55,9.19,Asian
+GENE5906,GPX1,Folate,Downregulation,Neutral,High,81.3,1.0,African American
+GENE1474,APOA1,Folate,No effect,Neutral,Moderate,22.55,1.6,Asian
+GENE1753,APOA1,Vitamin D,No effect,Enhances,High,15.53,2.61,Asian
+GENE6314,SOD2,Selenium,Upregulation,Reduces,Moderate,22.5,0.66,African American
+GENE1919,MTHFR,Vitamin D,Upregulation,Neutral,Variable,32.98,4.21,Asian
+GENE5806,TCF7L2,Omega-3,Downregulation,Enhances,Variable,67.75,7.29,African American
+GENE6873,TCF7L2,Omega-3,Upregulation,Reduces,Moderate,12.19,5.48,Asian
+GENE7141,SOD2,Zinc,Downregulation,Enhances,Moderate,48.08,3.27,Asian
+GENE8056,TCF7L2,Folate,No effect,Enhances,Variable,99.55,6.95,Asian
+GENE3385,APOA1,Zinc,Downregulation,Neutral,High,78.09,7.62,Caucasian
+GENE5000,SOD2,Selenium,No effect,Neutral,High,70.76,6.41,Asian
+GENE9702,APOA1,Omega-3,Downregulation,Reduces,Variable,68.42,1.84,African American
+GENE7751,GPX1,Zinc,Upregulation,Reduces,Moderate,78.16,4.43,Caucasian
+GENE3950,GPX1,Omega-3,No effect,Reduces,Moderate,29.45,6.41,Caucasian
+GENE3785,MTHFR,Omega-3,Upregulation,Enhances,Variable,79.17,0.03,Asian
+GENE3868,TCF7L2,Omega-3,Upregulation,Neutral,High,31.34,2.0,General
+GENE2293,GPX1,Vitamin D,Downregulation,Neutral,Moderate,10.93,3.06,Caucasian
+GENE7267,TCF7L2,Zinc,No effect,Enhances,High,41.92,5.76,African American
+GENE4945,APOA1,Folate,No effect,Enhances,Moderate,99.62,1.11,Asian
+GENE9153,SOD2,Zinc,Downregulation,Reduces,Variable,29.53,2.5,African American
+GENE3344,GPX1,Folate,Upregulation,Neutral,Moderate,82.22,7.14,General
+GENE4804,SOD2,Zinc,No effect,Enhances,Variable,21.9,7.68,Asian
+GENE8555,GPX1,Zinc,No effect,Enhances,Moderate,11.59,6.49,African American
+GENE5161,TCF7L2,Omega-3,Upregulation,Reduces,Variable,98.05,1.3,African American
+GENE8529,GPX1,Folate,Upregulation,Reduces,Variable,24.06,5.94,Asian
+GENE5183,GPX1,Folate,Upregulation,Reduces,Moderate,42.3,4.1,General
+GENE1153,APOA1,Folate,Upregulation,Reduces,High,66.32,9.39,Caucasian
+GENE8622,MTHFR,Zinc,Upregulation,Neutral,Variable,15.3,4.51,Caucasian
+GENE5712,APOA1,Folate,Upregulation,Neutral,High,56.36,8.74,Asian
+GENE9955,SOD2,Zinc,Upregulation,Reduces,Variable,45.97,1.34,Asian
+GENE3588,TCF7L2,Vitamin D,Downregulation,Neutral,Moderate,63.33,1.73,Asian
+GENE2210,TCF7L2,Omega-3,Upregulation,Neutral,Moderate,15.09,5.93,Asian
+GENE8237,GPX1,Selenium,Downregulation,Enhances,Variable,46.95,3.28,General
+GENE6661,TCF7L2,Vitamin D,No effect,Neutral,Moderate,29.6,2.82,African American
+GENE5901,MTHFR,Folate,Upregulation,Neutral,Moderate,8.31,0.84,African American
+GENE7951,MTHFR,Omega-3,Downregulation,Reduces,Variable,11.69,3.68,General
+GENE5097,GPX1,Omega-3,Downregulation,Reduces,Variable,74.12,3.93,Asian
+GENE8484,GPX1,Omega-3,Downregulation,Reduces,High,78.84,3.77,Caucasian
+GENE5949,SOD2,Omega-3,No effect,Enhances,High,6.78,8.35,Asian
+GENE4263,GPX1,Folate,Downregulation,Enhances,Variable,52.28,5.7,African American
+GENE7302,APOA1,Omega-3,No effect,Reduces,High,67.02,0.21,Asian
+GENE8916,APOA1,Selenium,Upregulation,Enhances,Moderate,5.08,0.23,African American
+GENE2747,APOA1,Selenium,No effect,Enhances,Moderate,8.59,5.59,Asian
+GENE4886,MTHFR,Omega-3,Upregulation,Neutral,Moderate,42.1,6.12,Caucasian
+GENE7248,TCF7L2,Zinc,Upregulation,Neutral,Variable,19.4,2.29,African American
+GENE6881,SOD2,Folate,Downregulation,Neutral,Moderate,36.33,0.89,Asian
+GENE5847,GPX1,Selenium,Downregulation,Reduces,Moderate,42.18,4.62,General
+GENE5837,SOD2,Selenium,No effect,Reduces,High,5.35,2.62,Asian
+GENE1359,MTHFR,Selenium,Downregulation,Reduces,Variable,72.22,8.52,Caucasian
+GENE7484,GPX1,Vitamin D,Upregulation,Enhances,Variable,78.24,0.5,General
+GENE5497,GPX1,Vitamin D,Downregulation,Neutral,Moderate,50.42,6.18,Caucasian
+GENE1132,MTHFR,Selenium,No effect,Neutral,Variable,43.37,6.0,Asian
+GENE1803,TCF7L2,Zinc,No effect,Reduces,High,74.14,1.49,General
+GENE9138,GPX1,Folate,Downregulation,Reduces,High,82.17,9.58,African American
+GENE5689,TCF7L2,Folate,Downregulation,Reduces,Variable,11.66,1.7,General
+GENE4770,MTHFR,Selenium,Upregulation,Reduces,Moderate,26.46,5.67,General
+GENE6772,SOD2,Selenium,Downregulation,Reduces,Variable,41.52,0.14,Asian
+GENE4588,GPX1,Folate,No effect,Reduces,High,70.48,5.26,African American
+GENE4115,TCF7L2,Zinc,No effect,Reduces,Moderate,79.08,7.73,African American
+GENE5106,GPX1,Vitamin D,Upregulation,Neutral,Variable,16.51,9.28,General
+GENE3240,TCF7L2,Vitamin D,Downregulation,Enhances,High,55.85,8.27,General
+GENE2591,GPX1,Selenium,Upregulation,Enhances,Variable,99.2,4.94,General
+GENE1645,GPX1,Folate,Downregulation,Neutral,Variable,36.68,2.24,African American

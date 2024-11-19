@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriGene Explorer - Impact Prediction</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+         body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            color: white;
+            background: linear-gradient(120deg, #4caf50, #00897b);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+            z-index: 100;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 2.2rem;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        .navbar a:hover {
+            color: #ff8a50;
+        }
+
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            overflow: hidden;
+        }
+
+        .background video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+            z-index: 10;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 15px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+            margin-top: 100px; /* Space for the navbar */
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+        }
+
+        a.btn {
+            text-decoration: none;
+            color: #fff;
+            background: #ff5722;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-size: 1rem;
+            transition: background 0.3s ease;
+        }
+
+        a.btn:hover {
+            background: #ff8a50;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <a href="/">Home</a>
+        <a href="/health">Health</a>
+    
+    </div>
+    <div class="container text-center">
+        <h1>NutriGene Explorer</h1>
+        <p>Predict the impact of nutrients on genes</p>
+
+        <form method="POST" action="/health">
+            <div class="mb-3">
+                <label for="gene_name" class="form-label">Select Gene</label>
+                <select class="form-select" id="gene_name" name="gene_name" required>
+                    <option value="">Choose a Gene</option>
+                    <option value="TCF7L2">TCF7L2</option>
+                    <option value="GPX1">GPX1</option>
+                    <option value="SOD2">SOD2</option>
+                    <option value="APOA1">APOA1</option>
+                    <option value="MTHFR">MTHFR</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="nutrient" class="form-label">Select Nutrient</label>
+                <select class="form-select" id="nutrient" name="nutrient" required>
+                    <option value="">Choose a Nutrient</option>
+                    <option value="Selenium">Selenium</option>
+                    <option value="Zinc">Zinc</option>
+                    <option value="Omega-3">Omega-3</option>
+                    <option value="Folate">Folate</option>
+                    <option value="Vitamin D">Vitamin D</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Predict</button>
+        </form>
+
+        <!-- Display prediction or error -->
+        {% if prediction %}
+            <div class="result">
+                <strong>Predicted Impact:</strong> {{ prediction }}
+            </div>
+        {% elif error %}
+            <div class="result">
+                <strong>Error:</strong> {{ error }}
+            </div>
+        {% endif %}
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
