@@ -1,2 +1,2 @@
-# NutriGene-Explorer
-# NutriGene-Explorer-Project
+# NutriGeneic-Explorer
+# NutriGeneic-Explorer-Project
