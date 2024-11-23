@@ -70,7 +70,6 @@ prompt_toolkit==3.0.47
 protobuf==4.25.3
 psutil==6.0.0
 pure_eval==0.2.3
-PyAudio==0.2.14
 pydantic==2.8.2
 pydantic_core==2.20.1
 Pygments==2.18.0
