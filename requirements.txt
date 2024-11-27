@@ -22,7 +22,6 @@ scikit-learn==1.5.2
 seaborn==0.13.2
 streamlit==1.38.0
 tensorflow==2.17.0
-tensorflow-intel==2.17.0
 tokenizers==0.20.3
 torch==2.5.1
 transformers==4.46.2
