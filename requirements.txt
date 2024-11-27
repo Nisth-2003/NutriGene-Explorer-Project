@@ -4,7 +4,6 @@ Matplotlib
 Numpy
 Seaborn 
 gunicorn>=20.1.0
-sklearn
 joblib
 networkx
 scikit-learn
